@@ -87,12 +87,12 @@
 
 
 
-                            <li><a href="./about.php"">About Us</a></li>
+                            <li><a href="./about.php">About Us</a></li>
                              <br>
 
 
 
-                            <li><a href=" #"="">Rent </a></li>
+                            <li><a href=" #">Rent </a></li>
                              <br>
 
 
