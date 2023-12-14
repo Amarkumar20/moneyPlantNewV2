@@ -1,516 +1,183 @@
 <!DOCTYPE html>
-
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Navbar Title</title>
+  <!-- Tailwind CSS CDN -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.css" rel="stylesheet" />
+</head>
 
-    <title>Money-plant| calculaters</title>
+<body class="bg-gray-100 dark:bg-gray-800">
+  <!-- Navbar -->
+  <nav class="bg-white dark:bg-gray-900 p-4 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+      <!-- Logo -->
+      <a href="#" class="text-lg font-bold text-gray-800 dark:text-white">Your Logo</a>
 
-    <link
-      rel="icon"
-      type="image/x-icon"
-      href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public"
-    />
+      <!-- Navigation Links -->
+      <ul class="flex space-x-4">
+        <li>
+          <a href="#" class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white"
+            data-drawer-target="drawer-example" data-drawer-show="drawer-example"
+            aria-controls="drawer-example">Home</a>
+        </li>
+        <li>
+          <a href="#" class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">About</a>
+        </li>
+        <li>
+          <a href="#" class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Services</a>
+        </li>
+        <li>
+          <a href="#" class="text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-white">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
 
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
-    />
+  <!-- Your Page Content Goes Here -->
 
-    <link rel="stylesheet" href="./assests/css/style.css" />
+  <!-- drawer init and toggle -->
+  <div class="text-center">
+    <!-- drawer component -->
+    <div id="drawer-example"
+      class="fixed top-0 left-0 z-40 h-screen p-4 overflow-y-auto transition-transform -translate-x-full bg-white w-full dark:bg-gray-800"
+      tabindex="-1" aria-labelledby="drawer-label">
+      <h5 id="drawer-label"
+        class="inline-flex items-center mb-4 text-base font-semibold text-gray-500 dark:text-gray-400">
+      </h5>
+      <button type="button" data-drawer-hide="drawer-example" aria-controls="drawer-example"
+        class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 absolute top-2.5 end-2.5 flex items-center justify-center dark:hover:bg-gray-600 dark:hover:text-white">
+        <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
+        </svg>
+        <span class="sr-only">Close menu</span>
+      </button>
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
-    />
+      <p class="mb-6 text-sm text-gray-500 dark:text-gray-400">
+        Supercharge your hiring by taking advantage of our
+        <a href="#" class="text-gray-600 underline dark:text-gray-500 hover:no-underline">limited-time sale</a>
+        for Flowbite Docs + Job Board. Unlimited access to over 190K
+        top-ranked candidates and the #1 design job board.
+      </p>
 
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+      <div class="grid lg:grid-cols-2 gap-4 my-4 mx-10">
 
-    <link
-      rel="stylesheet"
-      href="./assests/css/knowledge-center-calculators.css"
-    />
+        <!-- ===== -->
 
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-    <!-- Link Swiper's CSS -->
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-    />
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-    <style>
-      .form-control:focus {
-        color: var(--bs-body-color);
-        background-color: var(--bs-body-bg);
-        /* border-color: #86b7fe; */
-        outline: 0;
-        box-shadow: none;
-      }
-    </style>
-  </head>
-
-  <body>
-    <?php include 'header.php'; ?>
-
-    <section class="calculatorsSection">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="background-container">
-              <div class="overlay"></div>
-              <div class="text-container">
-                <p>PROPERTY CALCULATORS</p>
-                <div class="text">
-                  All the property calculators you need in one place
-                </div>
-              </div>
+        <div id="accordion-open" data-accordion="open">
+          <h2 id="accordion-open-heading-1">
+            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 rounded-t-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-open-body-1" aria-expanded="true" aria-controls="accordion-open-body-1">
+              <span class="flex items-center"><svg class="w-5 h-5 me-2 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg> What is Flowbite?</span>
+              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+              </svg>
+            </button>
+          </h2>
+          <div id="accordion-open-body-1" class="hidden" aria-labelledby="accordion-open-heading-2">
+            <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700 dark:bg-gray-900">
+              <p class="mb-2 text-gray-500 dark:text-gray-400">Flowbite is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more.</p>
+              <p class="text-gray-500 dark:text-gray-400">Check out this guide to learn how to <a href="/docs/getting-started/introduction/" class="text-blue-600 dark:text-blue-500 hover:underline">get started</a> and start developing websites even faster with components on top of Tailwind CSS.</p>
+            </div>
+          </div>
+          <h2 id="accordion-open-heading-2">
+            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-open-body-2" aria-expanded="false" aria-controls="accordion-open-body-2">
+              <span class="flex items-center"><svg class="w-5 h-5 me-2 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg>Is there a Figma file available?</span>
+              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+              </svg>
+            </button>
+          </h2>
+          <div id="accordion-open-body-2" class="hidden" aria-labelledby="accordion-open-heading-2">
+            <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700">
+              <p class="mb-2 text-gray-500 dark:text-gray-400">Flowbite is first conceptualized and designed using the Figma software so everything you see in the library has a design equivalent in our Figma file.</p>
+              <p class="text-gray-500 dark:text-gray-400">Check out the <a href="https://flowbite.com/figma/" class="text-blue-600 dark:text-blue-500 hover:underline">Figma design system</a> based on the utility classes from Tailwind CSS and components from Flowbite.</p>
+            </div>
+          </div>
+          <h2 id="accordion-open-heading-3">
+            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-open-body-3" aria-expanded="false" aria-controls="accordion-open-body-3">
+              <span class="flex items-center"><svg class="w-5 h-5 me-2 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg> What are the differences between Flowbite and Tailwind UI?</span>
+              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+              </svg>
+            </button>
+          </h2>
+          <div id="accordion-open-body-3" class="hidden" aria-labelledby="accordion-open-heading-3">
+            <div class="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+              <p class="mb-2 text-gray-500 dark:text-gray-400">The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.</p>
+              <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p>
+              <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+              <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+                <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+              </ul>
             </div>
           </div>
         </div>
-      </div>
-    </section>
+        
+       
 
-    <section class="middle-section">
-      <div class="container py-5">
-        <h5>Helping you manage budgets and break down payments</h5>
-        <p>
-          Whether you are buying, ,
-          <span class="text-green-color fw-semibold">selling</span>, renting or
-          letting, you will need to run through a long list of calculations to
-          ensure adequate funds, maximise return on investment, and more! Check
-          out our property calculators below (including rental price, mortgage
-          payment, net return on equity), designed to help you plan your budget
-          and investment portfolio effectively and keep them all in one place.
-        </p>
-      </div>
-    </section>
-
-    <section class="client-card">
-      <div class="container">
-        <div class="row">
-          <!-- First Card (col-md-6 on large screens, col-sm-12 on small screens) -->
-          <div class="col-md-6 col-sm-12">
-            <div class="card" style="width: 18rem">
-              <img
-                src="./assests/img/post3.jpg"
-                class="card-img-top"
-                alt="Placeholder Image"
-              />
-              <div class="card-body">
-                <h5 class="card-title">Card Title</h5>
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
-                </p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
+        <!-- ================================================ -->
+        <div id="accordion-open" data-accordion="open">
+          <h2 id="accordion-open-heading-2">
+            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 rounded-t-xl focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-open-body-1" aria-expanded="true" aria-controls="accordion-open-body-1">
+              <span class="flex items-center"><svg class="w-5 h-5 me-2 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg> What is Flowbite?</span>
+              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+              </svg>
+            </button>
+          </h2>
+          <div id="accordion-open-body-1" class="hidden" aria-labelledby="accordion-open-heading-1">
+            <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700 dark:bg-gray-900">
+              <p class="mb-2 text-gray-500 dark:text-gray-400">Flowbite is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more.</p>
+              <p class="text-gray-500 dark:text-gray-400">Check out this guide to learn how to <a href="/docs/getting-started/introduction/" class="text-blue-600 dark:text-blue-500 hover:underline">get started</a> and start developing websites even faster with components on top of Tailwind CSS.</p>
             </div>
           </div>
-
-          <!-- Second Card (col-md-6 on large screens, col-sm-12 on small screens) -->
-          <div class="col-md-6 col-sm-12">
-            <div class="card" style="width: 18rem">
-              <img
-                src="./assests/img/post3.jpg"
-                class="card-img-top"
-                alt="Placeholder Image"
-              />
-              <div class="card-body">
-                <h5 class="card-title">Card Title</h5>
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
-                </p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-              </div>
+          <h2 id="accordion-open-heading-2">
+            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-open-body-2" aria-expanded="false" aria-controls="accordion-open-body-2">
+              <span class="flex items-center"><svg class="w-5 h-5 me-2 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg>Is there a Figma file available?</span>
+              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+              </svg>
+            </button>
+          </h2>
+          <div id="accordion-open-body-2" class="hidden" aria-labelledby="accordion-open-heading-2">
+            <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700">
+              <p class="mb-2 text-gray-500 dark:text-gray-400">Flowbite is first conceptualized and designed using the Figma software so everything you see in the library has a design equivalent in our Figma file.</p>
+              <p class="text-gray-500 dark:text-gray-400">Check out the <a href="https://flowbite.com/figma/" class="text-blue-600 dark:text-blue-500 hover:underline">Figma design system</a> based on the utility classes from Tailwind CSS and components from Flowbite.</p>
+            </div>
+          </div>
+          <h2 id="accordion-open-heading-3">
+            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-open-body-3" aria-expanded="false" aria-controls="accordion-open-body-3">
+              <span class="flex items-center"><svg class="w-5 h-5 me-2 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path></svg> What are the differences between Flowbite and Tailwind UI?</span>
+              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+              </svg>
+            </button>
+          </h2>
+          <div id="accordion-open-body-3" class="hidden" aria-labelledby="accordion-open-heading-3">
+            <div class="p-5 border border-t-0 border-gray-200 dark:border-gray-700">
+              <p class="mb-2 text-gray-500 dark:text-gray-400">The main difference is that the core components from Flowbite are open source under the MIT license, whereas Tailwind UI is a paid product. Another difference is that Flowbite relies on smaller and standalone components, whereas Tailwind UI offers sections of pages.</p>
+              <p class="mb-2 text-gray-500 dark:text-gray-400">However, we actually recommend using both Flowbite, Flowbite Pro, and even Tailwind UI as there is no technical reason stopping you from using the best of two worlds.</p>
+              <p class="mb-2 text-gray-500 dark:text-gray-400">Learn more about these technologies:</p>
+              <ul class="ps-5 text-gray-500 list-disc dark:text-gray-400">
+                <li><a href="https://flowbite.com/pro/" class="text-blue-600 dark:text-blue-500 hover:underline">Flowbite Pro</a></li>
+                <li><a href="https://tailwindui.com/" rel="nofollow" class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
+              </ul>
             </div>
           </div>
         </div>
-      </div>
-    </section>
 
-    <?php include 'footer.php'; ?>
-
-    <!-- whatApp Modal start -->
-
-    <!-- Button trigger modal -->
-
-    <!-- Modal -->
-    <div
-      class="modal fade"
-      id="exampleModal"
-      tabindex="-1"
-      aria-labelledby="exampleModalLabel"
-      aria-hidden="true"
-    >
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header" style="border-bottom: 0">
-            <button
-              type="button"
-              class="btn-close"
-              data-bs-dismiss="modal"
-              aria-label="Close"
-            ></button>
-          </div>
-          <div
-            class="modal-body d-flex justify-content-center flex-column text-center"
-          >
-            <div class="ModalLogo">
-              <img
-                src="https://cdn.vectorstock.com/i/preview-1x/66/14/default-avatar-photo-placeholder-profile-picture-vector-21806614.jpg"
-                alt="LogoImg"
-                srcset=""
-              />
-              <img
-                src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/40c5df7c-44b2-4084-8141-da2a0a97a700/public"
-                alt="LogoImg"
-                srcset=""
-              />
-            </div>
-            <p class="para mt-1">Robbie McDonald</p>
-
-            <div class="whatsappBtnOne">
-              <div
-                class="whatsAppBox mt-4"
-                style="background-color: #1f663a; width: 100%"
-              >
-                <!-- <p class="mb-0"><i class="fa-brands fa-whatsapp me-2"></i>WHATSAPP</p> -->
-                <a
-                  href="tel:+"
-                  class="d-flex justify-content-center gap-2 align-items-center"
-                >
-                  <div class="whtIcon">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="30"
-                      height="30"
-                      viewBox="0 0 32 32"
-                      fill="none"
-                    >
-                      <script xmlns="">
-                        window._wordtune_extension_installed = true;
-                      </script>
-                      <path
-                        d="M16.004 0h-.008C7.174 0 0 7.176 0 16c0 3.5 1.128 6.744 3.046 9.378l-1.994 5.944 6.15-1.966C9.732 31.032 12.75 32 16.004 32 24.826 32 32 24.822 32 16S24.826 0 16.004 0z"
-                        fill="#4CAF50"
-                      />
-                      <path
-                        d="M25.314 22.594c-.386 1.09-1.918 1.994-3.14 2.258-.836.178-1.928.32-5.604-1.204-4.702-1.948-7.73-6.726-7.966-7.036-.226-.31-1.9-2.53-1.9-4.826S7.87 8.372 8.34 7.892c.386-.394 1.024-.574 1.636-.574.198 0 .376.01.536.018.47.02.706.048 1.016.79.386.93 1.326 3.226 1.438 3.462.114.236.228.556.068.866-.15.32-.282.462-.518.734-.236.272-.46.48-.696.772-.216.254-.46.526-.188.996.272.46 1.212 1.994 2.596 3.226 1.786 1.59 3.234 2.098 3.752 2.314.386.16.846.122 1.128-.178.358-.386.8-1.026 1.25-1.656.32-.452.724-.508 1.148-.348.432.15 2.718 1.28 3.188 1.514.47.236.78.348.894.546.112.198.112 1.128-.274 2.22z"
-                        fill="#FAFAFA"
-                      />
-                    </svg>
-                  </div>
-                  WHATSAPP
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
+       
       </div>
     </div>
+  </div>
 
-    <!-- whatApp Modal end -->
+  <!-- Tailwind CSS CDN -->
 
-    <!-- call Modal start -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js"></script>
+</body>
 
-    <!-- Button trigger modal -->
-
-    <!-- Modal -->
-    <div
-      class="modal fade"
-      id="exampleModalOne"
-      tabindex="-1"
-      aria-labelledby="exampleModalLabelOne"
-      aria-hidden="true"
-    >
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header" style="border-bottom: 0">
-            <button
-              type="button"
-              class="btn-close"
-              data-bs-dismiss="modal"
-              aria-label="Close"
-            ></button>
-          </div>
-          <div
-            class="modal-body d-flex justify-content-center flex-column text-center"
-          >
-            <div class="ModalLogo">
-              <img
-                src="https://cdn.vectorstock.com/i/preview-1x/66/14/default-avatar-photo-placeholder-profile-picture-vector-21806614.jpg"
-                alt="LogoImg"
-                srcset=""
-              />
-              <img
-                src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/40c5df7c-44b2-4084-8141-da2a0a97a700/public"
-                alt="LogoImg"
-                srcset=""
-              />
-            </div>
-            <p class="para mt-4" style="color: #1f663a; font-weight: 600">
-              +971-509683657
-            </p>
-
-            <!-- <div class="whatsappBtnOne">
-
-          <div class="whatsAppBox mt-4 " style="background-color:#1f663a; width:100%">
-
-                 <a href="tel:+" class="d-flex justify-content-center gap-2   align-items-center">
-                   <div class="whtIcon">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 32 32" fill="none"><script xmlns="">window._wordtune_extension_installed = true;</script><path d="M16.004 0h-.008C7.174 0 0 7.176 0 16c0 3.5 1.128 6.744 3.046 9.378l-1.994 5.944 6.15-1.966C9.732 31.032 12.75 32 16.004 32 24.826 32 32 24.822 32 16S24.826 0 16.004 0z" fill="#4CAF50"/><path d="M25.314 22.594c-.386 1.09-1.918 1.994-3.14 2.258-.836.178-1.928.32-5.604-1.204-4.702-1.948-7.73-6.726-7.966-7.036-.226-.31-1.9-2.53-1.9-4.826S7.87 8.372 8.34 7.892c.386-.394 1.024-.574 1.636-.574.198 0 .376.01.536.018.47.02.706.048 1.016.79.386.93 1.326 3.226 1.438 3.462.114.236.228.556.068.866-.15.32-.282.462-.518.734-.236.272-.46.48-.696.772-.216.254-.46.526-.188.996.272.46 1.212 1.994 2.596 3.226 1.786 1.59 3.234 2.098 3.752 2.314.386.16.846.122 1.128-.178.358-.386.8-1.026 1.25-1.656.32-.452.724-.508 1.148-.348.432.15 2.718 1.28 3.188 1.514.47.236.78.348.894.546.112.198.112 1.128-.274 2.22z" fill="#FAFAFA"/></svg>
-                   </div>
-                 WHATSAPP
-                </a>
-
-            </div>
-
-        </div> -->
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- call Modal end -->
-
-    <!-- Speak with us start -->
-
-    <div
-      class="modal fade"
-      id="exampleModalOneOne"
-      tabindex="-1"
-      aria-labelledby="exampleModalLabelOneOne"
-      aria-hidden="true"
-    >
-      <div class="modal-dialog customWidthModalDialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title modalHeader" id="exampleModalLabel">
-              Book a Viewing
-            </h5>
-            <button
-              type="button"
-              class="btn-close"
-              data-bs-dismiss="modal"
-              aria-label="Close"
-            ></button>
-          </div>
-          <div class="modal-body">
-            <div class="contactForm">
-              <form class="" action="" method="post">
-                <div class="mb-3">
-                  <label for="Name" class="form-label">Name*</label>
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="Name"
-                    aria-describedby="NameHelp"
-                    placeholder="Your Name"
-                  />
-                </div>
-                <div class="mb-3">
-                  <label for="Email-Address" class="form-label"
-                    >Email Address*</label
-                  >
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="Email-Address"
-                    aria-describedby="NameHelp"
-                    placeholder="Your Name"
-                  />
-                </div>
-                <div class="mb-3">
-                  <label for="telephone" class="form-label">Telephone*</label>
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="Email-Address"
-                    aria-describedby="EmailHelp"
-                    placeholder="Phone Number"
-                  />
-                </div>
-
-                <div class="mb-3">
-                  <label for="Listing-Type" class="form-label"
-                    >Listing Type*</label
-                  >
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="Listing-Type"
-                    aria-describedby="Listing-TypeHelp"
-                    placeholder="Sell"
-                  />
-                </div>
-                <div class="mb-3">
-                  <label for="Property-location" class="form-label"
-                    >Property location*</label
-                  >
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="Property-location"
-                    aria-describedby="Listing-Property-locationHelp"
-                    placeholder="Tower or Community"
-                  />
-                </div>
-
-                <div class="mb-3">
-                  <label for="exampleFormControlTextarea1" class="form-label"
-                    >Write Your message here</label
-                  >
-                  <textarea
-                    class="form-control"
-                    id="exampleFormControlTextarea1"
-                    rows="3"
-                    placeholder="Write Your message here"
-                  ></textarea>
-                </div>
-
-                <div class="mb-3 form-check">
-                  <input
-                    type="checkbox"
-                    class="form-check-input"
-                    id="exampleCheck1"
-                  />
-                  <label class="form-check-label" for="exampleCheck1"
-                    >By clicking Submit, you agree to our Terms & Conditions and
-                    Privacy Policy.</label
-                  >
-                </div>
-
-                <!-- <p class="SubmitBtn">By clicking Submit, you agree to our Terms & Conditions and Privacy Policy.</p> -->
-                <button
-                  type="submit"
-                  class="btn mt-4 btn-customClor"
-                  style="width: 100%"
-                >
-                  SEND MESSAGE
-                </button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Speak with us  end -->
-
-    <script src="./assests/js/script.js"></script>
-
-    <script
-      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-      crossorigin="anonymous"
-    ></script>
-
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-      integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-      crossorigin="anonymous"
-    ></script>
-
-    <!-- Swiper JS -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
-    <script>
-      function toggleDiv() {
-        var div = document.getElementById("ShowBox");
-        div.style.display = div.style.display === "none" ? "block" : "none";
-      }
-
-      function toggleButton(buttonNumber) {
-        var button1 = document.getElementById("button1");
-        var button2 = document.getElementById("button2");
-
-        // Reset both buttons to default state
-        button1.classList.remove("active-button");
-        button2.classList.remove("active-button");
-
-        // Toggle the active class for the clicked button
-        if (buttonNumber === 1) {
-          button1.classList.toggle("active-button");
-        } else if (buttonNumber === 2) {
-          button2.classList.toggle("active-button");
-        }
-      }
-    </script>
-
-    <!-- Initialize Swiper -->
-    <script>
-      var swiper = new Swiper(".mySwiper", {
-        slidesPerView: 3,
-        spaceBetween: 10,
-        freeMode: true,
-        cssMode: true,
-        autoplay: {
-          delay: 2500,
-          disableOnInteraction: false,
-        },
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-        },
-        pagination: {
-          el: ".swiper-pagination",
-        },
-        breakpoints: {
-          320: {
-            slidesPerView: 1,
-            spaceBetween: 10,
-          },
-          640: {
-            slidesPerView: 1,
-            spaceBetween: 10,
-          },
-          768: {
-            slidesPerView: 3,
-            spaceBetween: 10,
-          },
-          1024: {
-            slidesPerView: 3,
-            spaceBetween: 10,
-          },
-        },
-        mousewheel: true,
-        keyboard: true,
-      });
-
-      var swiperOne = new Swiper(".mySwiperOne", {
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-        },
-      });
-    </script>
-
-    <script>
-      $(window).on("scroll", function () {
-        if ($(window).scrollTop() > 20) {
-          $(".scroolHeader").addClass("activeTop");
-        } else {
-          //remove the background property so it comes transparent again (defined in your css)
-
-          $(".scroolHeader").removeClass("activeTop");
-        }
-      });
-    </script>
-  </body>
 </html>
