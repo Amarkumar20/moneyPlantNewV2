@@ -343,9 +343,9 @@
                   <li>
                     <a href="knowledge-center-calculators.php">Calculators</a>
                   </li>
-                  <li><a href="mortgage-and-interest-rate.php">Mortgages & Intrest rates</a></li>
+                  <li><a href="mortgage-and-interest-rate.html">Mortgages & Intrest rates</a></li>
                   <li><a href="area-guide.php">Area Guides</a></li>
-                  <li><a href="#">Terminology</a></li>
+                  <li><a href="terminology.html">Terminology</a></li>
                   <li><a href="#">Latest News</a></li>
                 </ul>
               </div>
