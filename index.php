@@ -1081,7 +1081,7 @@ include('header.php');
 
 <!--map start-->
 
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB9CZVWWp0GbxrqhelPp-IWWjSW-Bce9Dk">
+    <!-- <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB9CZVWWp0GbxrqhelPp-IWWjSW-Bce9Dk">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 
@@ -1170,7 +1170,9 @@ include('header.php');
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);
-    </script>
+    </script> -->
+
+    <div class="container mb-4" style="width: 100%"><iframe width="100%" height="450px"  loading="lazy" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Find Population on Map</a></iframe></div>
 
 
 
@@ -1178,14 +1180,14 @@ include('header.php');
 
 
 
-    <section class="mapsSection">
+    <!-- <section class="mapsSection">
         <div class="mapsBox">
              <div style="height:550px;" id="mapView">
             </div>
         </div>
 
 
-    </section>
+    </section> -->
 
 
 <?php

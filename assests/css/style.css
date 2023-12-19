@@ -19,6 +19,7 @@ body {
 ul {
   padding-left: 0;
 }
+
 ul li {
   list-style: none;
 }
@@ -53,7 +54,7 @@ ul li {
 
 .textaccor {
   font-weight: 600;
-  font-family: ui-sans-serif;
+  font-family: "Poppins", sans-serif;
   text-decoration: none;
   font-size: 22px;
 }
@@ -61,30 +62,31 @@ ul li {
 .accordion .accordion-item {
   border: none;
   margin-bottom: 15px;
+  overflow: hidden;
 }
 
 .accordion .accordion-header .accordion-button:is(.collapsed)::after {
   content: "\002B" !important;
   background-image: none;
-  font-family: FontAwesome;
-  transform: rotate(270deg);
-  top: 14px;
+  font-family: "Poppins", sans-serif;
+  transform: rotate(90deg) !important;
+  top: 19px;
   position: absolute;
-  right: 10px;
-  font-size: 18px !important;
+  right: 40px;
+  font-size: 22px !important;
   font-weight: 600 !important;
 }
 
 .accordion .accordion-button:not(.collapsed)::after {
   content: "\2212" !important;
-  background-image: none;
-  font-family: FontAwesome;
-  transform: rotate(180deg) !important;
-  top: 14px;
+  background-image: none !important;
+  font-family: "Poppins", sans-serif !important;
+  transform: rotate(0deg) !important;
+  top: 17px;
   position: absolute;
-  right: 10px;
+  right: 40px;
   font-weight: 600 !important;
-  font-size: 18px !important;
+  font-size: 22px !important;
   color: #fff;
 }
 
@@ -325,11 +327,13 @@ ul li {
 
   background: #fff;
 }
+
 .looFYy {
   font-size: 0.875rem;
   color: rgb(136, 145, 158);
   line-height: 1.4;
 }
+
 .beOMtt {
   margin-top: 1rem;
   display: flex;
@@ -338,6 +342,7 @@ ul li {
   justify-content: center;
   gap: 8px;
 }
+
 .cNXjQw {
   background-color: rgb(233, 240, 251);
   padding: 4px 10px;
@@ -793,6 +798,7 @@ ul li {
     border-bottom: 1px solid #eee; */
   text-align: left;
 }
+
 .NavBtnCUs {
   border: none;
   background-color: transparent;
@@ -803,7 +809,6 @@ ul li {
   text-align: left;
   margin-bottom: 15px;
 }
-
 .mapsSection {
   padding: 50px 0 0 0;
 }
@@ -851,13 +856,13 @@ ul li {
   text-decoration: none;
   font-size: 1.125rem;
   font-weight: 600;
-  font-family: ui-sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .swiper-button-next:after,
 .swiper-button-prev:after {
   font-family: swiper-icons;
-  font-size: 20px !important ;
+  font-size: 20px !important;
   text-transform: none !important;
   letter-spacing: 0;
   font-variant: initial;
@@ -885,7 +890,7 @@ ul li {
     color: #ffffff;
     font-size: 35px;
     font-weight: bold;
-    font-family: ui-sans-serif;
+    font-family: "Poppins", sans-serif;
     line-height: 40px;
   }
 

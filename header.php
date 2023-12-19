@@ -146,7 +146,7 @@
       aria-label="Close"
     ></button>
   </div>
-  <div class="offcanvas-body mt-2">
+  <div class="offcanvas-body mt-2 ">
     <div class="row">
       <div class="col-lg-6 co-md-12">
         <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -172,21 +172,22 @@
               <div class="accordion-body">
                 <ul class="SideBarNav">
                   <li>
-                    <a
-                      href="https://mightytech.dev/clientdemo/moneyPlantNew/properties-for-sale.php"
-                      >Property Search</a
-                    >
+                    <a href="properties-for-sale.php">Property Search</a>
                   </li>
                   <li>
-                    <a
-                      href="https://mightytech.dev/clientdemo/moneyPlantNew/why-buy-through-moneyplant.php"
+                    <a href="why-buy-through-moneyplant.php"
                       >Why Buy through Money Plant</a
                     >
                   </li>
-                  <li><a href="">Sales Conveyancing</a></li>
-                  <li><a href="#">Mortgage Services</a></li>
-                  <li><a href="#">Real Estate Market Insight</a></li>
-                  <li><a href="#">Buyer's Guide</a></li>
+
+                  <li><a href="#">Buyers Guide</a></li>
+                  <li>
+                    <a href="sales-conveyancing.php">Sales Conveyancing</a>
+                  </li>
+
+                  <!-- <li><a href="#">Mortgage Services</a></li> -->
+                  <!-- <li><a href="#">Real Estate Market Insight</a></li> -->
+                  <!-- <li><a href="#">Buyer's Guide</a></li> -->
                 </ul>
               </div>
             </div>
@@ -220,7 +221,7 @@
               </div>
             </div>
           </div>
-          <div class="accordion-item">
+          <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingThree">
               <button
                 class="accordion-button collapsed navLisitHover textaccor"
@@ -247,9 +248,9 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div> -->
 
-          <div class="accordion-item">
+          <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingFour">
               <button
                 class="accordion-button collapsed navLisitHover textaccor"
@@ -277,7 +278,7 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingFive">
@@ -300,6 +301,7 @@
             >
               <div class="accordion-body">
                 <ul class="SideBarNav">
+                  <li><a href="#">Real Estate Market Insight</a></li>
                   <li><a href="#">Individual Developments</a></li>
                   <li><a href="#">Developers in Dubai</a></li>
                 </ul>
@@ -307,14 +309,14 @@
             </div>
           </div>
           <button class="NavBtnCUs navLisitHover">
-            <a href="#" class="textaccor text-dark">Mortgages</a>
+            <a href="#" class="textaccor text-dark">Blog</a>
           </button>
-          <button class="NavBtnCUs navLisitHover">
+          <!-- <button class="NavBtnCUs navLisitHover">
             <a href="#" class="textaccor text-dark">Holiday Homes</a>
           </button>
           <button class="NavBtnCUs navLisitHover">
             <a href="#" class="textaccor text-dark">Join the Team</a>
-          </button>
+          </button> -->
         </div>
       </div>
       <div class="col-lg-6 co-md-12">
@@ -343,15 +345,14 @@
                   <li>
                     <a href="knowledge-center-calculators.php">Calculators</a>
                   </li>
-                  <li><a href="mortgage-and-interest-rate.html">Mortgages & Intrest rates</a></li>
+                 
                   <li><a href="area-guide.php">Area Guides</a></li>
                   <li><a href="terminology.html">Terminology</a></li>
-                  <li><a href="#">Latest News</a></li>
-                </ul>
+                  
               </div>
             </div>
           </div>
-          <div class="accordion-item">
+          <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingSix2">
               <button
                 class="accordion-button collapsed navLisitHover textaccor"
@@ -382,11 +383,11 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div> -->
 
-          <button class="NavBtnCUs navLisitHover">
+          <!-- <button class="NavBtnCUs navLisitHover">
             <a href="#" class="textaccor text-dark">Video</a>
-          </button>
+          </button> -->
 
           <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingSeven">
@@ -409,9 +410,10 @@
             >
               <div class="accordion-body">
                 <ul class="SideBarNav">
-                  <li><a href="./about.php">About Us</a></li>
+                  <li><a href="./about.php">About</a></li>
                   <li><a href="./meet-the-team.php">Meet the Team</a></li>
                   <li><a href="#">Reviews</a></li>
+                  <li><a href="#">Careers</a></li>
                 </ul>
               </div>
             </div>
@@ -419,7 +421,7 @@
 
           <button class="NavBtnCUs navLisitHover">
             <a
-              href="https://mightytech.dev/clientdemo/moneyPlantNew/contact.php"
+              href="contact.php"
               class="textaccor text-dark"
               >Contact</a
             >
