@@ -73,10 +73,10 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="WhyBuyHeading">
-              <h1>
+              <h2>
                 Your Benefit of Buying Property in<br />
                 Dubai with MoneyPlant
-              </h1>
+              </h2>
             </div>
             <div class="WhyBuyPara">
               <!-- <p><span>Buy your new home in Dubai</span>  with Money Plant so you can benefit from a seamless and efficient client service and add real value to your investment.</p> -->
