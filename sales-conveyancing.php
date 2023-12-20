@@ -8,7 +8,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Money-plant</title>
+    <title>Sales Conveyancing | Money-plant</title>
 
     <link rel="icon" type="image/x-icon" href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public">
 

@@ -6,7 +6,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Money-plant</title>
+    <title>Buyers's Guide | Money-plant</title>
 
     <link
       rel="icon"

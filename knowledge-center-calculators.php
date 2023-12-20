@@ -175,68 +175,7 @@
       </div>
     </section>
 
-    <section class="form-section container mt-2">
-      <div class="row">
-        <div class="col-sm-12 col-lg-6 form-section-flex pe-5 mb-2">
-          <div class="">
-            <h2 class="knowledge-center-mid-heading fs-3">
-              Get Help from
-              <span class="text-danger text-itailic">Professionals</span><br />
-              Give a call to our team
-            </h2>
-            <p class="knowledge-center-sub-para">
-              At our estate agency, we prioritise your needs above all else. Our
-              range of services is designed to make your property journey
-              smooth, successful, and worry-free from the very beginning to the
-              joyful end.
-            </p>
-          </div>
-        </div>
-
-        <div class="col-sm-12 col-lg-6 mb-5 form-right">
-          <div class="knowledge-center-sub-para">
-            <h2 class="knowledge-center-sub-heading">Contact Us</h2>
-            <form>
-              <div class="mb-3">
-                <label for="name" class="form-label">Name</label>
-                <input
-                  type="text"
-                  class="form-control"
-                  id="name"
-                  placeholder="Enter your name"
-                  required
-                />
-              </div>
-              <div class="mb-3">
-                <label for="email" class="form-label">Email</label>
-                <input
-                  type="email"
-                  class="form-control"
-                  id="email"
-                  placeholder="Enter your email"
-                  required
-                />
-              </div>
-              <div class="mb-3">
-                <label for="phone" class="form-label">Phone</label>
-                <input
-                  type="tel"
-                  class="form-control"
-                  id="phone"
-                  placeholder="Enter your phone number"
-                  required
-                />
-              </div>
-              <span class="mb-3"
-                >By clicking Submit, you agree to our Terms & Conditions and
-                Privacy Policy.</span
-              >
-              <button type="submit" class="btn btn-success">Submit</button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
+    <?php include "contactForm.php"; ?>
 
     <?php include 'footer.php'; ?>
 

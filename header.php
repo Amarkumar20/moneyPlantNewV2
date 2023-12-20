@@ -180,14 +180,12 @@
                     >
                   </li>
 
-                  <li><a href="#">Buyers Guide</a></li>
+                  <li><a href="buyers-guide.php">Buyers Guide</a></li>
                   <li>
                     <a href="sales-conveyancing.php">Sales Conveyancing</a>
                   </li>
 
-                  <!-- <li><a href="#">Mortgage Services</a></li> -->
-                  <!-- <li><a href="#">Real Estate Market Insight</a></li> -->
-                  <!-- <li><a href="#">Buyer's Guide</a></li> -->
+                  
                 </ul>
               </div>
             </div>
@@ -214,8 +212,8 @@
               <div class="accordion-body">
                 <ul class="SideBarNav">
                   <li><a href="#">Property Valuation</a></li>
-                  <li><a href="#">Why Sell with Money Plant?</a></li>
-                  <li><a href="#">Seller's Guide</a></li>
+                  <li><a href="why-sell-with-money-plant.php">Why Sell with Money Plant?</a></li>
+                  <li><a href="sellers-guide.php">Seller's Guide</a></li>
                   <li><a href="#">List My Property</a></li>
                 </ul>
               </div>
@@ -302,7 +300,7 @@
               <div class="accordion-body">
                 <ul class="SideBarNav">
                   <li><a href="#">Real Estate Market Insight</a></li>
-                  <li><a href="#">Individual Developments</a></li>
+                  <li><a href="individual-developments.php">Individual Developments</a></li>
                   <li><a href="#">Developers in Dubai</a></li>
                 </ul>
               </div>
@@ -347,7 +345,7 @@
                   </li>
                  
                   <li><a href="area-guide.php">Area Guides</a></li>
-                  <li><a href="terminology.html">Terminology</a></li>
+                  <li><a href="terminology.php">Terminology</a></li>
                   
               </div>
             </div>
