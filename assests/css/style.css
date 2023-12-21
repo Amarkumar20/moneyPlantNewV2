@@ -982,6 +982,19 @@ ul li {
 
     /* background: #0000006e; */
   }
+  .google-reviews-sub1{
+    display:none;
+  }
+  
+
 }
 
-/*  */
+.property-section{
+ background-image: url("https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/d5fa8c30-9a1f-4b74-19bf-6c16ef461d00/public");
+ background-repeat: no-repeat;
+ background-size: cover;
+  padding-top: 140px;
+}
+
+
+

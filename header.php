@@ -184,6 +184,9 @@
                   <li>
                     <a href="sales-conveyancing.php">Sales Conveyancing</a>
                   </li>
+                  <li>
+                    <a href="">Off Plan</a>
+                  </li>
 
                   
                 </ul>
@@ -211,7 +214,7 @@
             >
               <div class="accordion-body">
                 <ul class="SideBarNav">
-                  <li><a href="#">Property Valuation</a></li>
+                  <li><a href="property-valuation.php">Property Valuation</a></li>
                   <li><a href="why-sell-with-money-plant.php">Why Sell with Money Plant?</a></li>
                   <li><a href="sellers-guide.php">Seller's Guide</a></li>
                   <li><a href="#">List My Property</a></li>
@@ -278,7 +281,7 @@
             </div>
           </div> -->
 
-          <div class="accordion-item">
+          <!-- <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingFive">
               <button
                 class="accordion-button collapsed navLisitHover textaccor"
@@ -305,7 +308,7 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div> -->
           <button class="NavBtnCUs navLisitHover">
             <a href="#" class="textaccor text-dark">Blog</a>
           </button>
@@ -346,6 +349,7 @@
                  
                   <li><a href="area-guide.php">Area Guides</a></li>
                   <li><a href="terminology.php">Terminology</a></li>
+                  <li><a href="">Developers in Dubai</a></li>
                   
               </div>
             </div>
