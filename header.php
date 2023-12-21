@@ -217,7 +217,7 @@
                   <li><a href="property-valuation.php">Property Valuation</a></li>
                   <li><a href="why-sell-with-money-plant.php">Why Sell with Money Plant?</a></li>
                   <li><a href="sellers-guide.php">Seller's Guide</a></li>
-                  <li><a href="#">List My Property</a></li>
+                  <li><a href="list-my-property.php">List My Property</a></li>
                 </ul>
               </div>
             </div>
