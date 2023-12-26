@@ -898,12 +898,26 @@ ul li {
   padding-bottom: 40px;
 
 }
+.hero-section-buy{
+  background-image: url("https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/21833b05-49f4-4233-baa9-1c40e8785800/public");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 140px;
+  height: 100vh;
+
+}
+.input-box-hero{
+  width: 60%;
+}
 
 @media only screen and (max-width: 780px) {
   .dub-h2-title {
     font-size: 35px;
 
     line-height: 45px;
+  }
+  .input-box-hero{
+    width: 100%;
   }
 
   .banner-heading {

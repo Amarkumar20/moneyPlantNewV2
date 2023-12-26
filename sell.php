@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Buy | Money-plant</title>
+    <title>Sell | Money-plant</title>
 
     <link rel="icon" type="image/x-icon"
         href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public" />
@@ -43,6 +43,42 @@
             outline: 0;
             box-shadow: none;
         }
+
+        .custom-btn1 {
+            color: #fff;
+            /* Red color */
+            background-color: #dc3545;
+            border: 1px solid #fff;
+            border-radius: 0%;
+            /* Transparent outline */
+        }
+
+        .custom-btn1:hover {
+            background-color: #fff;
+            /* Red color on hover */
+            color: #dc3545;
+            border: 1px solid #dc3545;
+            border-radius: 0%;
+            /* White text on hover */
+        }
+
+        .custom-btn2 {
+            color: #fff;
+            /* Red color */
+            background-color: transparent;
+            border: 1px solid #fff;
+            border-radius: 0%;
+            /* Transparent outline */
+        }
+
+        .custom-btn2:hover {
+            background-color: #dc3545;
+            /* Red color on hover */
+            color: #fff;
+            border: 1px solid #fff;
+            border-radius: 0%;
+            /* White text on hover */
+        }
     </style>
 </head>
 
@@ -55,15 +91,23 @@
     <!-- Main Content  -->
     <section class="hero-section-buy">
         <div class="hero-section-buy-container container mt-5">
-            <h6 class="text-white">BUY PROPERTY IN DUBAI</h6>
-            <h1 class="text-white my-4">Buying the right property for you and your family.</h1>
-            <div class="d-flex align-items-center border bg-white px-4 input-box-hero">
+            <h6 class="text-white">SELL PROPERTY IN DUBAI</h6>
+            <h1 class="text-white my-4">Selling your home and securing the best deals on the market.</h1>
+            <!-- <div class="d-flex align-items-center border bg-white px-4 input-box-hero">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <input style="border: none;" type="text" class="form-control " id="exampleInput"
                     placeholder="Area or Community">
                 <span class="fs-6 me-2"> <a class="text-decoration-none text-dark"
                         href="properties-for-sale.php">BUY</a></span>| <span class="ms-2 fs-6"> <a
                         class="text-decoration-none text-dark" href="property-valuation.php">RENT</a></span>
+            </div> -->
+            <div class="d-flex align-items-center gap-3">
+
+
+                <button type="button" class="btn custom-btn1 btn-lg">
+                    BOOK A VALUATION
+                </button>
+                <button type="button" class="btn custom-btn2 btn-lg ">CONTACT US</button>
             </div>
             <div class="mt-4 d-flex justify-content-start align-items-center gap-2 text-white">
                 <img style="width: 100px; height: 46px;"
@@ -118,13 +162,17 @@
         <div class="container my-5">
             <div class="row">
                 <div class="border-start border-2 p-3 col-sm-6 col-lg-3  fs-1  text-secondary "><span>1000</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
+                </div>
                 <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>45647</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
+                </div>
                 <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>537</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
+                </div>
                 <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>8943</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
+                </div>
 
 
 
@@ -138,7 +186,7 @@
         <source src="https://res.cloudinary.com/dyqfqnru8/video/upload/v1702991910/Front_Page_Bg_ttoxwf.mp4"
             type="video/mp4">
 
-        
+
 
     </video>
 

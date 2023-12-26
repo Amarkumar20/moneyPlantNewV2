@@ -134,7 +134,7 @@
             <h2 class="accordion-header" id="flush-headingOne">
               <span class="accordion-button collapsed navLisitHover textaccor" type="button" data-bs-toggle="collapse"
                 data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                <a style="text-decoration: none;" onclick="window.location.href='#'">Buy</a>
+                <a style="text-decoration: none;" onclick="window.location.href='buy.php'">Buy</a>
             </span>
             </h2>
             <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
@@ -165,7 +165,7 @@
             <h2 class="accordion-header" id="flush-headingTwo">
               <span class="accordion-button collapsed navLisitHover textaccor" type="button" data-bs-toggle="collapse"
                 data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                <a style="text-decoration: none;" onclick="window.location.href='#'">Sell</a>
+                <a style="text-decoration: none;" onclick="window.location.href='sell.php'">Sell</a>
             </span>
             </h2>
             <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
