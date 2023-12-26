@@ -3,12 +3,9 @@
     <div class="container">
       <div>
         <a class="navbar-brand brandLogo" href="./index.php">
-          <img
-            id="LogoScroll"
+          <img id="LogoScroll"
             src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/930fa18d-8c04-4cb9-7f04-f1ecdac99e00/public"
-            alt="Logo"
-            class="d-inline-block align-text-top"
-          />
+            alt="Logo" class="d-inline-block align-text-top" />
         </a>
 
         <!-- <a class="navbar-brand brandLogo" href="./index.php">
@@ -30,12 +27,7 @@
         </a> -->
       </div>
 
-      <div
-        class="menu"
-        data-bs-toggle="offcanvas"
-        data-bs-target="#offcanvasExample"
-        aria-controls="offcanvasExample"
-      >
+      <div class="menu" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
         <div class="menuDiv">
           <div class="menuIcon">
             <i class="bi bi-list"></i>
@@ -124,27 +116,15 @@
 
     </div> -->
 
-<div
-  class="offcanvas offcanvas-start"
-  tabindex="-1"
-  id="offcanvasExample"
-  aria-labelledby="offcanvasExampleLabel"
->
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
   <div class="offcanvas-header">
     <div class="logo">
       <a class="navbar-brand brandLogo" href="./index.php">
-        <img
-          src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/40c5df7c-44b2-4084-8141-da2a0a97a700/public"
-        />
+        <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/40c5df7c-44b2-4084-8141-da2a0a97a700/public" />
       </a>
     </div>
 
-    <button
-      type="button"
-      class="btn-close text-reset"
-      data-bs-dismiss="offcanvas"
-      aria-label="Close"
-    ></button>
+    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body mt-2 ">
     <div class="row">
@@ -152,32 +132,20 @@
         <div class="accordion accordion-flush" id="accordionFlushExample">
           <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingOne">
-              <button
-                class="accordion-button collapsed navLisitHover textaccor"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseOne"
-                aria-expanded="false"
-                aria-controls="flush-collapseOne"
-              >
-                Buy
-              </button>
+              <span class="accordion-button collapsed navLisitHover textaccor" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                <a style="text-decoration: none;" onclick="window.location.href='#'">Buy</a>
+            </span>
             </h2>
-            <div
-              id="flush-collapseOne"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingOne"
-              data-bs-parent="#accordionFlushExample"
-            >
+            <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
+              data-bs-parent="#accordionFlushExample">
               <div class="accordion-body">
                 <ul class="SideBarNav">
                   <li>
                     <a href="properties-for-sale.php">Property Search</a>
                   </li>
                   <li>
-                    <a href="why-buy-through-moneyplant.php"
-                      >Why Buy through Money Plant</a
-                    >
+                    <a href="why-buy-through-moneyplant.php">Why Buy through Money Plant</a>
                   </li>
 
                   <li><a href="buyers-guide.php">Buyers Guide</a></li>
@@ -185,33 +153,23 @@
                     <a href="sales-conveyancing.php">Sales Conveyancing</a>
                   </li>
                   <li>
-                    <a href="">Off Plan</a>
+                    <a href="off-plan.php">Off Plan</a>
                   </li>
 
-                  
+
                 </ul>
               </div>
             </div>
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingTwo">
-              <button
-                class="accordion-button collapsed navLisitHover textaccor"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseTwo"
-                aria-expanded="false"
-                aria-controls="flush-collapseTwo"
-              >
-                Sell
-              </button>
+              <span class="accordion-button collapsed navLisitHover textaccor" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                <a style="text-decoration: none;" onclick="window.location.href='#'">Sell</a>
+            </span>
             </h2>
-            <div
-              id="flush-collapseTwo"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingTwo"
-              data-bs-parent="#accordionFlushExample"
-            >
+            <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
+              data-bs-parent="#accordionFlushExample">
               <div class="accordion-body">
                 <ul class="SideBarNav">
                   <li><a href="property-valuation.php">Property Valuation</a></li>
@@ -324,33 +282,23 @@
         <div class="accordion accordion-flush" id="accordionFlushExample">
           <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingSix1">
-              <button
-                class="accordion-button collapsed navLisitHover textaccor"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseSix1"
-                aria-expanded="false"
-                aria-controls="flush-collapseOne"
-              >
-                Knowledge Center
-              </button>
+              <span class="accordion-button collapsed navLisitHover textaccor" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseSix1" aria-expanded="false" aria-controls="flush-collapseOne">
+                <a style="text-decoration: none;" onclick="window.location.href='knowledge-center.php'">Knowledge
+                  Center</a>
+              </span>
             </h2>
-            <div
-              id="flush-collapseSix1"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSix1"
-              data-bs-parent="#accordionFlushExample"
-            >
+            <div id="flush-collapseSix1" class="accordion-collapse collapse" aria-labelledby="flush-headingSix1"
+              data-bs-parent="#accordionFlushExample">
               <div class="accordion-body">
                 <ul class="SideBarNav">
                   <li>
                     <a href="knowledge-center-calculators.php">Calculators</a>
                   </li>
-                 
                   <li><a href="area-guide.php">Area Guides</a></li>
                   <li><a href="terminology.php">Terminology</a></li>
                   <li><a href="">Developers in Dubai</a></li>
-                  
+
               </div>
             </div>
           </div>
@@ -393,26 +341,18 @@
 
           <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingSeven">
-              <button
-                class="accordion-button collapsed navLisitHover textaccor"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseSeven"
-                aria-expanded="false"
-                aria-controls="flush-collapseSeven"
-              >
-                About Us
-              </button>
+              <span class="accordion-button collapsed navLisitHover textaccor" type="button" data-bs-toggle="collapse"
+           
+              data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                <a style="text-decoration: none;" onclick="window.location.href='about.php'">About Us</a>
+              </span>
             </h2>
-            <div
-              id="flush-collapseSeven"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSeven"
-              data-bs-parent="#accordionFlushExample"
-            >
+           
+            <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven"
+              data-bs-parent="#accordionFlushExample">
               <div class="accordion-body">
                 <ul class="SideBarNav">
-                  <li><a href="./about.php">About</a></li>
+                  
                   <li><a href="./meet-the-team.php">Meet the Team</a></li>
                   <li><a href="#">Reviews</a></li>
                   <li><a href="#">Careers</a></li>
@@ -422,11 +362,7 @@
           </div>
 
           <button class="NavBtnCUs navLisitHover">
-            <a
-              href="contact.php"
-              class="textaccor text-dark"
-              >Contact</a
-            >
+            <a href="contact.php" class="textaccor text-dark">Contact</a>
           </button>
         </div>
       </div>
