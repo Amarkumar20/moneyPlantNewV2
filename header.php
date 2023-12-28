@@ -116,7 +116,7 @@
 
     </div> -->
 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+<div class="offcanvas offcanvas-start main-heder-section" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
   <div class="offcanvas-header">
     <div class="logo">
       <a class="navbar-brand brandLogo" href="./index.php">
@@ -268,7 +268,7 @@
             </div>
           </div> -->
           <button class="NavBtnCUs navLisitHover">
-            <a href="#" class="textaccor text-dark">Blog</a>
+            <a href="blog.php" class="textaccor text-dark">Blog</a>
           </button>
           <!-- <button class="NavBtnCUs navLisitHover">
             <a href="#" class="textaccor text-dark">Holiday Homes</a>

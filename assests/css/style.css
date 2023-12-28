@@ -56,7 +56,7 @@ ul li {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   text-decoration: none;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .accordion .accordion-item {
@@ -788,7 +788,7 @@ ul li {
 }
 
 .accordion-body {
-  padding: 1rem 2.25rem;
+  padding: 0.5rem 2.25rem;
 }
 
 .SideBarNav li {
@@ -908,6 +908,10 @@ ul li {
 }
 .input-box-hero{
   width: 60%;
+}
+.main-heder-section{
+  max-width: 65%!important;
+  font-size: smaller;
 }
 
 @media only screen and (max-width: 780px) {
