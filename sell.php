@@ -104,10 +104,10 @@
             <div class="d-flex align-items-center gap-3">
 
 
-                <button type="button" class="btn custom-btn1 btn-lg">
+                <button onclick="window.location.href = 'property-valuation.php'" type="button" class="btn custom-btn1 btn-lg">
                     BOOK A VALUATION
                 </button>
-                <button type="button" class="btn custom-btn2 btn-lg ">CONTACT US</button>
+                <button onclick="window.location.href = 'contact.php'" type="button" class="btn custom-btn2 btn-lg ">CONTACT US</button>
             </div>
             <div class="mt-4 d-flex justify-content-start align-items-center gap-2 text-white">
                 <img style="width: 100px; height: 46px;"
