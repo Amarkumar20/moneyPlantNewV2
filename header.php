@@ -149,9 +149,9 @@
                   </li>
 
                   <li><a href="buyers-guide.php">Buyers Guide</a></li>
-                  <li>
+                  <!-- <li>
                     <a href="sales-conveyancing.php">Sales Conveyancing</a>
-                  </li>
+                  </li> -->
                   <li>
                     <a href="off-plan.php">Off Plan</a>
                   </li>
@@ -267,7 +267,7 @@
               </div>
             </div>
           </div> -->
-          <button class="NavBtnCUs navLisitHover">
+          <button onclick="window.location.href='blog.php'"  class="NavBtnCUs navLisitHover">
             <a href="blog.php" class="textaccor text-dark">Blog</a>
           </button>
           <!-- <button class="NavBtnCUs navLisitHover">
@@ -297,8 +297,6 @@
                   </li>
                   <li><a href="area-guide.php">Area Guides</a></li>
                   <li><a href="terminology.php">Terminology</a></li>
-                  <li><a href="">Developers in Dubai</a></li>
-
               </div>
             </div>
           </div>
@@ -361,7 +359,7 @@
             </div>
           </div>
 
-          <button class="NavBtnCUs navLisitHover">
+          <button onclick="window.location.href='contact.php'" class="NavBtnCUs navLisitHover" >
             <a href="contact.php" class="textaccor text-dark">Contact</a>
           </button>
         </div>

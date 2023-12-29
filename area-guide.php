@@ -97,7 +97,7 @@
           escapes like The Springs to the buzzing waterfront of Dubai Marina,
           our area guides are here to help you with everything you need to know
           about living in Dubai's top communities. Book our area guides &
-          explore our latest properties available for purchase or rent.
+          explore our latest properties available for purchase.
         </p>
       </div>
     </section>

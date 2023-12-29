@@ -209,7 +209,7 @@
                         </svg>
 
                         <P class="mb-0"
-                          >Rated 4.7/5 from 726+ Customer Reviews</P
+                          >Rated 4.8/5 from 1260+ Customer Reviews</P
                         >
                       </div>
                     </form>

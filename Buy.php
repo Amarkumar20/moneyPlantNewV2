@@ -55,22 +55,22 @@
     <!-- Main Content  -->
     <section class="hero-section-buy">
         <div class="hero-section-buy-container container mt-5">
-            <h6 class="text-white">BUY PROPERTY IN DUBAI</h6>
-            <h1 class="text-white my-4">Buying the right property for you and your family.</h1>
+            <h6 class="text-white">PROPERTY IN DUBAI</h6>
+            <h1 class="text-white my-4">Buy the ideal property for you and your loved ones.</h1>
             <div class="d-flex align-items-center border bg-white px-4 input-box-hero">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <input style="border: none;" type="text" class="form-control " id="exampleInput"
                     placeholder="Area or Community">
                 <span class="fs-6 me-2"> <a class="text-decoration-none text-dark"
                         href="properties-for-sale.php">BUY</a></span>| <span class="ms-2 fs-6"> <a
-                        class="text-decoration-none text-dark" href="property-valuation.php">RENT</a></span>
+                        class="text-decoration-none text-dark" href="sell.php">SELL</a></span>
             </div>
             <div class="mt-4 d-flex justify-content-start align-items-center gap-2 text-white">
                 <img style="width: 100px; height: 46px;"
                     src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/e9366d16-fd4f-4d7d-781a-be1914433600/public"
                     alt="">
 
-                <P class="mb-0">Rated 4.7/5 from 726+ Customer Reviews</P>
+                <P class="mb-0">Rated 4.8/5 from 1260+ Customer Reviews</P>
             </div>
         </div>
     </section>
@@ -79,30 +79,26 @@
     <section class="content-section-buy container mt-5 ">
         <div class="row g-0">
             <div class="col-lg-7 pe-5">
-                <h3>Let us help you buy a quality home.</h3>
-                <p>Dubai promises a fascinating lifestyle for expats and a vast selection of Dubai real estate that will
-                    spoil you for choices for your new home. From sea-view villas to city apartments, the possibilities
-                    are endless. Our team of experienced and friendly experts are ready to help you make the right
-                    investment choices and embark on your new adventure. Take a look at our latest residential
-                    properties for sale or contact our Sales team to discuss your property needs.</p>
+                <h3>Use Our Industry Expertise To Buy Your Dream Home.</h3>
+                <p>Dubai promises an exciting lifestyle for expats and a diverse range of Dubai real estate options for your new home. The possibilities range from sea-view villas to city apartments. Our knowledgeable and friendly experts are eager to assist you in making sound investment decisions and embarking on your new adventure. View our most recent residential properties for sale or contact our sales team to discuss your property requirements.</p>
             </div>
             <div class="col-lg-5 ps-5">
                 <h3>Explore Buying</h3>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Arrange for Title Deed application.</p>
+                    <p><a href="properties-for-sale.php" class="text-decoration-none text-dark">Property Search</a></p>
                 </div>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Mortgage Services</p>
+                    <p><a href="why-buy-through-moneyplant.php" class="text-decoration-none text-dark">Why Buy through Money Plant</a></p>
                 </div>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Arrange for Title Deed application.</p>
+                    <p><a href="buyers-guide.php" class="text-decoration-none text-dark">Buyers Guide</a></p>
                 </div>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Mortgage Services</p>
+                    <p><a href="off-plan.php" class="text-decoration-none text-dark">Off Plan</a></p>
                 </div>
 
             </div>
@@ -117,14 +113,14 @@
     <section>
         <div class="container my-5">
             <div class="row">
-                <div class="border-start border-2 p-3 col-sm-6 col-lg-3  fs-1  text-secondary "><span>1000</span>
+                <div class="border-start border-2 p-3 col-sm-6 col-lg-3  fs-1  text-secondary "><span>2000</span>
                     <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
-                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>45647</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>4647</span>
+                    <br><span class="fs-6 mt-0 pt-0">REGISTERED BUYERS</span></div>
                 <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>537</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
-                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>8943</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                    <br><span class="fs-6 mt-0 pt-0">COMMUNITIES COVERED</span></div>
+                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>43</span>
+                    <br><span class="fs-6 mt-0 pt-0">NUMBER OF EMPLOYEES</span></div>
 
 
 
@@ -278,7 +274,7 @@
                                     </defs>
                                 </svg>
 
-                                <P class="mb-0">Rated 4.7/5 from 726+ Customer Reviews</P>
+                                <P class="mb-0">Rated 4.8/5 from 1260+ Customer Reviews</P>
                             </div>
                         </form>
                     </div>

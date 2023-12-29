@@ -264,7 +264,7 @@ include('header.php');
 
                         <div class="team-img leaders">
 
-                            <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/5020b651-e713-4f71-1431-eae1db536f00/public" width="100%" alt="">
+                            <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/1b56f1ba-d660-4fac-e823-f081d4679700/public" width="100%" alt="">
 
                             <div class="overlay">
 
@@ -308,7 +308,7 @@ include('header.php');
 
                     <div class="team-img leaders">
 
-                        <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/a8677ad7-0a39-46ea-2fac-8812985a0900/public" width="100%" alt="">
+                        <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/fb7a5f8c-932b-46a6-bb8b-87923568d400/public" width="100%" alt="">
 
                         <div class="overlay">
 
@@ -352,7 +352,7 @@ include('header.php');
 
                 <div class="team-img leaders">
 
-                    <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/c99bcb0b-8a62-429d-95fd-751d18fb3900/public" width="100%" alt="">
+                    <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/cb3d42b0-c92a-4c10-4089-7f5bc9b32b00/public" width="100%" alt="">
 
                     <div class="overlay">
 

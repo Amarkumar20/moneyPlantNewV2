@@ -229,7 +229,7 @@ include('header.php');
                   <a href="javascript:;">
                     <div class="hoverDiv">
                       <i class="bi bi-envelope iconColorr"></i>
-                      <span><strong>Email</strong><br />hr@moneyplant.ae</span>
+                      <span><strong>Email</strong><br />info@moneyplant.ae</span>
                     </div>
                     <i class="bi bi-arrow-right arrowIcon"></i>
                   </a>
@@ -278,11 +278,11 @@ include('header.php');
                   />
                 </div>
               </div>
-              <div class="col-12">
+              <div class="col-12 mt-4">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d93548.76635683775!2d55.22658554252961!3d25.10143569439828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b6589a226ff%3A0x3c0c4554406c0c7f!2sEmaar%20Business%20Park!5e0!3m2!1sen!2sin!4v1700032253401!5m2!1sen!2sin"
                   width="100%"
-                  height="500"
+                  height="400"
                   style="border: 0"
                   allowfullscreen=""
                   loading="lazy"

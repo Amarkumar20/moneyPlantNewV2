@@ -232,10 +232,10 @@
               <div class="border p-4 d-flex">
                 <i style="font-size: 28px" class="bi bi-people me-3"></i>
                 <div>
-                  <h5>90,000 registered buyers & tenants</h5>
+                  <h5>34,567 registered buyers & tenants</h5>
                   <p>
                     Your property will be seen by thousands of qualified buyers
-                    & tenants registered with Espace Real Estate
+                    & tenants registered with Money Plant Real Estate
                   </p>
                 </div>
               </div>
@@ -243,20 +243,20 @@
               <div class="border mt-4 p-4 d-flex">
                 <i style="font-size: 28px" class="bi bi-award me-3"></i>
                 <div>
-                  <h5>90,000 registered buyers & tenants</h5>
+                  <h5>34,567 registered buyers & tenants</h5>
                   <p>
                     Your property will be seen by thousands of qualified buyers
-                    & tenants registered with Espace Real Estate
+                    & tenants registered with Money Plant Real Estate
                   </p>
                 </div>
               </div>
               <div class="border mt-4 p-4 d-flex">
                 <i style="font-size: 28px" class="bi bi-buildings me-3"></i>
                 <div>
-                  <h5>90,000 registered buyers & tenants</h5>
+                  <h5>34,567 registered buyers & tenants</h5>
                   <p>
                     Your property will be seen by thousands of qualified buyers
-                    & tenants registered with Espace Real Estate
+                    & tenants registered with Money Plant Real Estate
                   </p>
                 </div>
               </div>
@@ -300,27 +300,13 @@
             </div>
 
             <h4 class="my-2">
-              Top marks for efficiency and in understanding our requirements.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, doloribus?
             </h4>
             <p>
-              Review for Parth at Espace: I recently had the pleasure of working
-              with Parth, a mortgage advisor at Espace, for organizing my
-              mortgage. Parth stood out for his exceptional knowledge and
-              expertise in the field. He meticulously presented all the
-              available options, making sure I understood each one, which
-              greatly aided in making an informed decision. His communication
-              skills were exemplary, ensuring a smooth and efficient liaison
-              between myself and the bank. One of the most impressive aspects of
-              Parth's service was his responsiveness. He was readily available
-              to answer my testament to his dedication and customer-first
-              approach. This level of commitment not only provided peace of mind
-              but also expedited the mortgage advice. His proficiency,
-              commitment to client service, and ability to simplify complex
-              processes make him an outstanding advisor. If you're looking for a
-              knowledgeable and reliable mortgage advisor, Parth at Espace is
-              definitely someone you should consider.
+             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quo ad soluta repellat, delectus voluptas. Ipsum, delectus qui perspiciatis veritatis quidem quo esse debitis molestias facilis mollitia enim quaerat ipsa velit laboriosam laudantium commodi fugit error magnam reprehenderit beatae! Iusto illo, dolore officia at eligendi corporis quos nostrum modi quibusdam?
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus eveniet dicta ipsa? Id, qui dolor ratione ex ipsam vitae! Architecto officia quos laboriosam eveniet eligendi sint neque libero similique sapiente!
             </p>
-            <p>Mark Newport</p>
+            <p>ABC</p>
             <p>in the last week</p>
           </div>
         </div>

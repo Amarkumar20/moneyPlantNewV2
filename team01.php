@@ -118,11 +118,11 @@ include('header.php');
 
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-lg-4 mt-4">
 
                 <div class="teamImage">
 
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/5020b651-e713-4f71-1431-eae1db536f00/public" class="img-fluid" alt="about-img">
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/1b56f1ba-d660-4fac-e823-f081d4679700/public" class="img-fluid" alt="about-img">
 
               </div>
 

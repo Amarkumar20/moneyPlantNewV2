@@ -92,7 +92,7 @@
     <section class="hero-section-buy">
         <div class="hero-section-buy-container container mt-5">
             <h6 class="text-white">SELL PROPERTY IN DUBAI</h6>
-            <h1 class="text-white my-4">Selling your home and securing the best deals on the market.</h1>
+            <h1 class="text-white my-4">Get the Best Price for Your Home when you sell it.</h1>
             <!-- <div class="d-flex align-items-center border bg-white px-4 input-box-hero">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <input style="border: none;" type="text" class="form-control " id="exampleInput"
@@ -114,7 +114,7 @@
                     src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/e9366d16-fd4f-4d7d-781a-be1914433600/public"
                     alt="">
 
-                <P class="mb-0">Rated 4.7/5 from 726+ Customer Reviews</P>
+                <P class="mb-0">Rated 4.8/5 from 1260+ Customer Reviews</P>
             </div>
         </div>
     </section>
@@ -123,30 +123,29 @@
     <section class="content-section-buy container mt-5 ">
         <div class="row g-0">
             <div class="col-lg-7 pe-5">
-                <h3>Let us help you buy a quality home.</h3>
-                <p>Dubai promises a fascinating lifestyle for expats and a vast selection of Dubai real estate that will
-                    spoil you for choices for your new home. From sea-view villas to city apartments, the possibilities
-                    are endless. Our team of experienced and friendly experts are ready to help you make the right
-                    investment choices and embark on your new adventure. Take a look at our latest residential
-                    properties for sale or contact our Sales team to discuss your property needs.</p>
+                <h3>Choose the Best and Get the Best Price for Your Property</h3>
+                <p>There is huge competition in the real estate market world in Dubai. If you choose the best broker, then you can get your dream price to sell your property. And we have a well-experienced and well-connected broker who can help you achieve your dream price.<br/>
+                Let our team of professional and friendly experts guide you through every step of the way. Get in touch with our Sales team today to discuss how we can convert your listing into a sale.
+
+                </p>
             </div>
             <div class="col-lg-5 ps-5">
                 <h3>Explore Buying</h3>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Arrange for Title Deed application.</p>
+                    <p><a href="property-valuation.php" class="text-decoration-none text-dark">Property Valuation</a></p>
                 </div>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Mortgage Services</p>
+                    <p><a href="why-sell-with-money-plant.php" class="text-decoration-none text-dark">Why Sell with Money Plant?</a></p>
                 </div>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Arrange for Title Deed application.</p>
+                    <p><a href="sellers-guide.php" class="text-decoration-none text-dark">Seller's Guide</a></p>
                 </div>
                 <div class="lisitBox">
                     <i class="fa-solid fa-circle-chevron-right"></i>
-                    <p>Mortgage Services</p>
+                    <p><a href="list-my-property.php" class="text-decoration-none text-dark">List My Property</a></p>
                 </div>
 
             </div>
@@ -161,18 +160,14 @@
     <section>
         <div class="container my-5">
             <div class="row">
-                <div class="border-start border-2 p-3 col-sm-6 col-lg-3  fs-1  text-secondary "><span>1000</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
-                </div>
-                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>45647</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
-                </div>
+                <div class="border-start border-2 p-3 col-sm-6 col-lg-3  fs-1  text-secondary "><span>2000</span>
+                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span></div>
+                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>4647</span>
+                    <br><span class="fs-6 mt-0 pt-0">REGISTERED BUYERS</span></div>
                 <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>537</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
-                </div>
-                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>8943</span>
-                    <br><span class="fs-6 mt-0 pt-0">THE YEAR WE WERE BORN</span>
-                </div>
+                    <br><span class="fs-6 mt-0 pt-0">COMMUNITIES COVERED</span></div>
+                <div class="border-start border-2 p-3 col-sm-6 col-lg-3 fs-1  text-secondary "><span>43</span>
+                    <br><span class="fs-6 mt-0 pt-0">NUMBER OF EMPLOYEES</span></div>
 
 
 

@@ -74,15 +74,13 @@
           <div class="col-lg-12">
             <div class="WhyBuyHeading">
               <h2 class="fs-1">
-                Your Benefit of Buying Property in<br />
-                Dubai with MoneyPlant
+              Key Benefits of Selling Your Property with Moneyplant’s Expertise
               </h2>
             </div>
             <div class="WhyBuyPara">
               <p>
-                We can get you where you want to be your home. Because we
-                understand home is not just a place, it is your emotion that you
-                want to invest in the right place.
+              Sell your property with MoneyPlant’s expertise to get the best value from the market. Open a wide range of dynamic selling horizons to get the best return. 
+
               </p>
             </div>
           </div>
@@ -113,7 +111,7 @@
       <div class="container">
         <div class="WhyBuyBannerImg">
           <img
-            src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/c874e990-8dfd-476a-b963-d675ff81ac00/public"
+            src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/2a960333-0804-44e0-736e-738955f62100/public"
             alt=""
             srcset=""
           />
@@ -128,7 +126,7 @@
               <div class="d-flex agent-desc">
                 <div class="circleImg">
                   <img
-                    src="https://d2fvuj1ffdxm4a.cloudfront.net/inner_pages/espace_contact_us.jpeg"
+                    src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public"
                     alt=""
                     srcset=""
                   />
@@ -213,44 +211,31 @@
           <div class="col-lg-8 col-md-12 col-sm-12">
             <div class="salesText mt-4">
               <div class="SaleHeading">
-                <h5>Get the Best with Our Knowledge and Efficiency</h5>
+                <h5>We Acquire Experience And Expertise In This Field</h5>
               </div>
               <div class="salePara">
                 <p>
-                  We grew from a small property company to an industry. So, we
-                  have much knowledge about the places and property. Our
-                  consultant can help you make intelligent decisions about where
-                  you should invest in the property. We want you to experience
-                  quality and safety. We also deliver efficiency, which you need
-                  to make your purchase smooth and seamless.
+                Our teams of consultants and agents are local experts who know everything about Dubai inside and out. They are here to provide valuable insight, relevant knowledge and expertise that Internet research cannot provide. <br/>
+                We stay up to date on market trends so that we can advise you on any related data and pricing that may change your decision-making strategy. We can also explain the entire selling process in Dubai with a team of real estate experts so that you, as a seller, can be fully prepared before listing your home.
                 </p>
               </div>
 
               <div class="SaleHeading">
-                <h5>Find the Place That you Like</h5>
+                <h5>We Implement Data-Driven Strategy To Get The Best Value Out Of Your Property</h5>
               </div>
               <div class="salePara">
                 <p>
-                  Our strong network helps us find iconic properties in the most
-                  dynamic market that meet your specific requirements. With our
-                  award-winning agents and brokers, we guarantee to provide you
-                  with the best service and return on your investment. So, we
-                  can say confidently that you will get remarkable value and an
-                  unbeatable location with us.
+                  Each house has its own perspective and uniqueness. You can easily rely on us once you list your property with MoneyPlant. Our professional property managers will highlight its best features, negotiate the best price, and market it to many potential real estate buyers. We consider the most recent market data, customer purchasing behaviour, and any other analysis that will inform our marketing strategy to ensure a quick and high-quality sale.
                 </p>
               </div>
 
               <div class="SaleHeading">
-                <h5>Provide You A Simple Property Buying Experience</h5>
+                <h5>We Offer Professional And Tailored Services For Client Satisfaction</h5>
               </div>
               <div class="salePara">
                 <p>
-                  <span>Buying property in Dubai</span> is not a piece of cake.
-                  That’s why we hire the best talented, and skilled people to
-                  help you buy the right property. We want you to rely on us
-                  from day one through the handover. So, let us handle your
-                  stress, your home will be worth more than you think and add
-                  value to your investment.
+                  While attempting to balance everything else in your life, selling your home can be an intense and stressful experience. Allow us to take care of the details and make this a simple process for you. We will do the legwork and keep you updated once we understand the property you want to sell, your target sale price, and any other terms of negotiations.
+
                 </p>
               </div>
 

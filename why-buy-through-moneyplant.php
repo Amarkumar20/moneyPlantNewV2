@@ -74,15 +74,14 @@
           <div class="col-lg-12">
             <div class="WhyBuyHeading">
               <h2 class="fs-1">
-                Your Benefit of Buying Property in<br />
-                Dubai with MoneyPlant
+              Your Benefit of Buying Property in Dubai with MoneyPlant
+
               </h2>
             </div>
             <div class="WhyBuyPara">
               <p>
-                We can get you where you want to be your home. Because we
-                understand home is not just a place, it is your emotion that you
-                want to invest in the right place.
+              We can get you where you want to be your home. Because we understand home is not just a place, it is your emotion that you want to invest in the right place.
+
               </p>
             </div>
           </div>
@@ -113,7 +112,7 @@
       <div class="container">
         <div class="WhyBuyBannerImg">
           <img
-            src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/c874e990-8dfd-476a-b963-d675ff81ac00/public"
+            src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/e981dcac-fa79-4075-a4e3-3be1ef682f00/public"
             alt=""
             srcset=""
           />
@@ -128,7 +127,7 @@
               <div class="d-flex agent-desc">
                 <div class="circleImg">
                   <img
-                    src="https://d2fvuj1ffdxm4a.cloudfront.net/inner_pages/espace_contact_us.jpeg"
+                    src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public"
                     alt=""
                     srcset=""
                   />
@@ -217,12 +216,7 @@
               </div>
               <div class="salePara">
                 <p>
-                  We grew from a small property company to an industry. So, we
-                  have much knowledge about the places and property. Our
-                  consultant can help you make intelligent decisions about where
-                  you should invest in the property. We want you to experience
-                  quality and safety. We also deliver efficiency, which you need
-                  to make your purchase smooth and seamless.
+                We grew from a small property company to an industry. So, we have much knowledge about the places and property. Our consultant can help you make intelligent decisions about where you should invest in the property. We want you to experience quality and safety. We also deliver efficiency, which you need to make your purchase smooth and seamless.
                 </p>
               </div>
 
@@ -253,55 +247,8 @@
                   value to your investment.
                 </p>
               </div>
-
-              <!-- <div class="">
-                            <ul class="itemBoxOne">
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Review and advise on the particular conditions, timeframes including all parties’ obligations.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Oversee smooth transaction and legal transfer of ownership of property on time.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Safeguard all deposit cheques until the successful transfer of property.</li>
-                                </div>
-                                 <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Coordinate timely requests of required documents for all parties involved.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Liaise with banks to ensure they have all necessary documentation to complete next steps for the seller/buyer/valuation company.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Liaise with banks to ensure they have all necessary documentation to complete next steps for the seller/buyer/valuation company.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Ensures all maintenance/service fees are paid as per developer’s requirements for NOC application.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Coordinate on RERA and Land Department related matters.</li>
-                                </div>
-                                <div class="lisitBox">
-                                    <i class="fa-solid fa-circle-chevron-right"></i>
-                                    <li>Arrange for Title Deed application.</li>
-                                </div>
-
-
-
-
-                            </ul>
-                        </div> -->
-              <div class="">
-                <!-- <p><span>Contact our team of experts</span> to find out more about our conveyancing services and how we can help.</p> -->
+              <div class="">              
                 <p>
-                  
                    Contact Us </span> Today to Get Started
                   >
                 </p>
