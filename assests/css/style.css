@@ -931,6 +931,9 @@ ul li {
     font-family: "Poppins", sans-serif;
     line-height: 40px;
   }
+  .main-heder-section{
+    max-width: 100%!important;
+  }
 
   .contentHeading {
     margin-top: 20px;
