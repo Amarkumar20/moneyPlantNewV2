@@ -261,7 +261,7 @@
                 srcset=""
               />
             </div>
-            <p class="para">Contact MoneyPlant Real Estate on</p>
+            <p class="para">Contact Money Plant Real Estate on</p>
 
             <div class="whatsappBtnOne">
               <div

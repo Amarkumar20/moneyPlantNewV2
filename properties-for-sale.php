@@ -488,7 +488,7 @@
         <div class="row mt-3">
           <div class="col-12">
             <p class="ParaTwo2">
-              MoneyPlant can change the direction of your life by a simple
+              Money Plant can change the direction of your life by a simple
               choice. Are you anxious or panicky about searching for property
               yourself? Don't worry we can manage and handle all your property
               needs.

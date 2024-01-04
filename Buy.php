@@ -164,7 +164,7 @@
                         <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/40c5df7c-44b2-4084-8141-da2a0a97a700/public"
                             alt="LogoImg" srcset="" />
                     </div>
-                    <p class="para">Contact MoneyPlant Real Estate on</p>
+                    <p class="para">Contact Money Plant Real Estate on</p>
 
                     <div class="whatsappBtnOne">
                         <div class="whatsAppBox mt-4" style="background-color: #1f663a; width: 100%">
@@ -203,7 +203,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title modalHeader" id="exampleModalLabel">
-                        Contact MoneyPlant
+                        Contact Money Plant
                     </h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>

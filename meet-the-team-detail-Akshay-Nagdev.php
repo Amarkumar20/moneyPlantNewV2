@@ -68,7 +68,7 @@
           <div class="col-lg-9 col-md-12 col-sm-12">
             <div class="MeetTeamContentDetailText">
               <div class="NameDetails mb-4">
-                <h1>Mohit Puri</h1>
+                <h1>Akshay Nagdev</h1>
                 <p class="positionPara">Managing Partner</p>
               </div>
 

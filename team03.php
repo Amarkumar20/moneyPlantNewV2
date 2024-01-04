@@ -78,7 +78,7 @@ include('header.php');
 
                     <h5><i>Founder And Managing Partner</i> </h5>
 
-                    <p>Akshay Nagdev is a dynamic and results-driven professional with an unwavering passion for driving sales excellence and fostering client success. As a Business Head at Hedge & Sachs and Managing Partner at MoneyPlant, Akshay leads a high-performing team dedicated to delivering unparalleled value and forging lasting partnerships. <br><br>
+                    <p>Akshay Nagdev is a dynamic and results-driven professional with an unwavering passion for driving sales excellence and fostering client success. As a Business Head at Hedge & Sachs and Managing Partner at Money Plant, Akshay leads a high-performing team dedicated to delivering unparalleled value and forging lasting partnerships. <br><br>
 
 
 

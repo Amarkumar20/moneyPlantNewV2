@@ -800,7 +800,7 @@ include('header.php');
 
                     <div class="banner-content">
 
-                        <p>Who’s behind MoneyPlant?</p>
+                        <p>Who’s behind Money Plant?</p>
 
                         <h2>We work hard to take our clients on a hassle-free and successful property journey.</h2>
 
@@ -1175,7 +1175,7 @@ include('header.php');
 
             [
                 'AMC Service',
-                '<a href="https://maps.app.goo.gl/1DCEhzzZDB4kR8Bh8">Price AED 3000</a><p>MoneyPlant</p>',
+                '<a href="https://maps.app.goo.gl/1DCEhzzZDB4kR8Bh8">Price AED 3000</a><p>Money Plant</p>',
                 25.100533,
                 55.311179,
                 0

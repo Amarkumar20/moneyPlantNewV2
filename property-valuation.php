@@ -97,11 +97,11 @@
                           >Email Address*</label
                         >
                         <input
-                          type="text"
+                          type="email"
                           class="form-control"
                           id="Email-Address"
                           aria-describedby="NameHelp"
-                          placeholder="Your Name"
+                          placeholder="Your Email"
                         />
                       </div>
                       <div class="mb-3">
@@ -351,7 +351,7 @@
                 srcset=""
               />
             </div>
-            <p class="para">Contact MoneyPlant Real Estate on</p>
+            <p class="para">Contact Money Plant Real Estate on</p>
 
             <div class="whatsappBtnOne">
               <div

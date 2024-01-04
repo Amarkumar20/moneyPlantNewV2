@@ -355,7 +355,7 @@ include('header.php');
             </div>
 
             <div class="mt-4 ">
-                <p class="ctttLV">By logging in, you agree to the MoneyPlant
+                <p class="ctttLV">By logging in, you agree to the Money Plant
                 Terms of Use & Privacy Policy</p>
             </div>
 

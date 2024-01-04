@@ -75,7 +75,7 @@
             <div class="WhyBuyHeading">
               <h2 class="fs-1">
                 Your Benefit of Buying Property in<br />
-                Dubai with MoneyPlant
+                Dubai with Money Plant
               </h2>
             </div>
             <div class="WhyBuyPara">
@@ -321,7 +321,7 @@
         <div class="row">
           <div class="col-md-12 col-lg-12 col-xl-9">
             <div class="banner-content">
-              <p>MoneyPlant’s Expert Team</p>
+              <p>Money Plant’s Expert Team</p>
 
               <h2>
                 Sell, buy, and rent your property without any hassle & make your
@@ -1171,7 +1171,7 @@
                 srcset=""
               />
             </div>
-            <p class="para">Contact MoneyPlant Real Estate on</p>
+            <p class="para">Contact Money Plant Real Estate on</p>
 
             <div class="whatsappBtnOne">
               <div
@@ -1228,7 +1228,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title modalHeader" id="exampleModalLabel">
-              Contact MoneyPlant
+              Contact Money Plant
             </h5>
             <button
               type="button"

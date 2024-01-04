@@ -79,7 +79,7 @@
             </div>
             <div class="WhyBuyPara">
               <p>
-              Sell your property with MoneyPlant’s expertise to get the best value from the market. Open a wide range of dynamic selling horizons to get the best return. 
+              Sell your property with Money Plant’s expertise to get the best value from the market. Open a wide range of dynamic selling horizons to get the best return. 
 
               </p>
             </div>
@@ -225,7 +225,7 @@
               </div>
               <div class="salePara">
                 <p>
-                  Each house has its own perspective and uniqueness. You can easily rely on us once you list your property with MoneyPlant. Our professional property managers will highlight its best features, negotiate the best price, and market it to many potential real estate buyers. We consider the most recent market data, customer purchasing behaviour, and any other analysis that will inform our marketing strategy to ensure a quick and high-quality sale.
+                  Each house has its own perspective and uniqueness. You can easily rely on us once you list your property with Money Plant. Our professional property managers will highlight its best features, negotiate the best price, and market it to many potential real estate buyers. We consider the most recent market data, customer purchasing behaviour, and any other analysis that will inform our marketing strategy to ensure a quick and high-quality sale.
                 </p>
               </div>
 
@@ -306,7 +306,7 @@
         <div class="row">
           <div class="col-md-12 col-lg-12 col-xl-9">
             <div class="banner-content">
-              <p>MoneyPlant’s Expert Team</p>
+              <p>Money Plant’s Expert Team</p>
 
               <h2>
                 Sell, buy, and rent your property without any hassle & make your
@@ -1156,7 +1156,7 @@
                 srcset=""
               />
             </div>
-            <p class="para">Contact MoneyPlant Real Estate on</p>
+            <p class="para">Contact Money Plant Real Estate on</p>
 
             <div class="whatsappBtnOne">
               <div
@@ -1213,7 +1213,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title modalHeader" id="exampleModalLabel">
-              Contact MoneyPlant
+              Contact Money Plant
             </h5>
             <button
               type="button"
