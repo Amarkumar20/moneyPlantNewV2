@@ -108,17 +108,17 @@
             <!-- card1  -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
-              <a class="card-text" href="#">
+              <a class="card-text" href="al-furjan-area-guide.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
               </a>
               <div class="card-body">
-                <a class="card-text" href="#"
+                <a class="card-text" href="al-furjan-area-guide.php"
                   ><p class="card-text knowledge-center-sub-para">
-                    Title of Location
+                  Al Furjan Area Guide
                   </p>
                 </a>
               </div>
