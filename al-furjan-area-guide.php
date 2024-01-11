@@ -58,7 +58,8 @@
                     <div class="WhyBuyPara">
                         <p>
                             Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced accommodation.
+                            a community feeling, safe living, and well-priced villas and apartments.
+
 
 
                         </p>
@@ -170,8 +171,11 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Additionally, residents can enjoy the convenience of excellent public transport
-                                connections that allow them to travel to and from other parts of the city easily.
+                                Further, residents can enjoy the convenience of excellent public transport connections
+                                that allow them to travel to and from other parts of the city easily. There are also the
+                                best schools and nurseries for the children, like Jabel Ali Village Nursery and The
+                                Arbor School. Life in Al Furjan is convenient.
+
                             </p>
                         </div>
 
@@ -180,13 +184,23 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Villas and townhouses in Al Furjan offer spacious living, finished to an exceptional
-                                standard. Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there.
+                                The villas and townhouses in Al Furjan provide expansive living spaces, meticulously
+                                finished to an exceptional standard, complete with all contemporary conveniences.
 
 
                             </p>
                         </div>
 
+                        <div class="salePara">
+                            <p>
+                                Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there. Al Furjan
+                                is an ideal Dubai base because it is situated near the Discovery Gardens, ibn Battuta
+                                Mall, Dubai Marina, and other Dubai landmarks.
+
+
+
+                            </p>
+                        </div>
 
                         <div class="">
 
@@ -204,7 +218,10 @@
     <!-- ===== -->
     <section class="mb-5">
         <div class="container">
-            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
+            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
+                    marginwidth="0"
+                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
+                        href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
         </div>
     </section>
 
