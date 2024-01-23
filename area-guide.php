@@ -105,7 +105,7 @@
     <section class="client-card">
       <div class="container mt-4">
         <div class="row">
-            <!-- card1  -->
+            <!-- card 1  -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
               <a class="card-text" href="al-furjan-area-guide.php">
@@ -124,10 +124,10 @@
               </div>
             </div>
           </div>
-          <!-- card2 -->
+          <!-- card 2 -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
-              <a class="card-text" href="#">
+              <a class="card-text" href="victory-heights-area-guide.php">
                 <img
                   src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
                   class="card-img-top"
@@ -135,9 +135,9 @@
                 />
               </a>
               <div class="card-body">
-                <a class="card-text" href="#"
+                <a class="card-text" href="victory-heights-area-guide.php"
                   ><p class="card-text knowledge-center-sub-para">
-                    Title of Location
+                  Victory Heights area guide
                   </p>
                 </a>
               </div>
@@ -146,7 +146,7 @@
           <!-- card 3 -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
-              <a class="card-text" href="#">
+              <a class="card-text" href="palm-jumeirah-area-guide.php">
                 <img
                   src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
                   class="card-img-top"
@@ -154,9 +154,9 @@
                 />
               </a>
               <div class="card-body">
-                <a class="card-text" href="#"
+                <a class="card-text" href="palm-jumeirah-area-guide.php"
                   ><p class="card-text knowledge-center-sub-para">
-                    Title of Location
+                  Palm Jumeirah Area Guide
                   </p>
                 </a>
               </div>
@@ -166,10 +166,10 @@
       </div>
       <div class="container mt-4">
         <div class="row">
-            <!-- card1  -->
+            <!-- card 4  -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
-              <a class="card-text" href="#">
+              <a class="card-text" href="dubai-downtown.php">
                 <img
                   src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
                   class="card-img-top"
@@ -177,18 +177,18 @@
                 />
               </a>
               <div class="card-body">
-                <a class="card-text" href="#"
+                <a class="card-text" href="dubai-downtown.php"
                   ><p class="card-text knowledge-center-sub-para">
-                    Title of Location
+                  Dubai Downtown
                   </p>
                 </a>
               </div>
             </div>
           </div>
-          <!-- card2 -->
+          <!-- card 5 -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
-              <a class="card-text" href="#">
+              <a class="card-text" href="the-lake-area-guide.php">
                 <img
                   src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
                   class="card-img-top"
@@ -196,18 +196,18 @@
                 />
               </a>
               <div class="card-body">
-                <a class="card-text" href="#"
+                <a class="card-text" href="the-lake-area-guide.php"
                   ><p class="card-text knowledge-center-sub-para">
-                    Title of Location
+                  The Lake Area Guide
                   </p>
                 </a>
               </div>
             </div>
           </div>
-          <!-- card 3 -->
+          <!-- card 6 -->
           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card" style="width: 100%">
-              <a class="card-text" href="#">
+              <a class="card-text" href="springs-area-guide.php">
                 <img
                   src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
                   class="card-img-top"
@@ -215,14 +215,210 @@
                 />
               </a>
               <div class="card-body">
-                <a class="card-text" href="#"
+                <a class="card-text" href="springs-area-guide.php"
                   ><p class="card-text knowledge-center-sub-para">
-                    Title of Location
+                  Springs area Guide
                   </p>
                 </a>
               </div>
             </div>
           </div>
+          <!-- card 7 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="meadows-area-guide.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="meadows-area-guide.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Meadows Area Guide
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+           <!-- card 8 -->
+           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="jumeirah-village-triangle.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="jumeirah-village-triangle.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Jumeirah Village Triangle
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+           <!-- card 9 -->
+           <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="jumeirah-village-circle.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="jumeirah-village-circle.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Jumeirah Village Circle
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- card 10 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="juemirah-park.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="juemirah-park.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Juemirah Park 
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- card 11 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="jumeirah-golf-estates.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="jumeirah-golf-estates.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Jumeirah Golf Estates
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- card 12 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="jumeirah-beach-residence.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="jumeirah-beach-residence.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Jumeirah Beach Residence
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- card 13 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="green-community.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="green-community.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Green Community 
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+            <!-- card 14 -->
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="emirates-hills.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="emirates-hills.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Emirates Hills
+
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- card 14 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="dubai-marina.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="dubai-marina.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Dubai Marina
+
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- card 15 -->
+          <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <div class="card" style="width: 100%">
+              <a class="card-text" href="arabian-ranches.php">
+                <img
+                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  class="card-img-top"
+                  alt="Placeholder Image"
+                />
+              </a>
+              <div class="card-body">
+                <a class="card-text" href="dubai-marina.php"
+                  ><p class="card-text knowledge-center-sub-para">
+                  Arabian Ranches
+
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+
         </div>
       </div>
     </section>
