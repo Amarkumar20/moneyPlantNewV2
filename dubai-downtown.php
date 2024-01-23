@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>al-furjan-area-guide | Money-plant</title>
+    <title>dubai-downtown | Money-plant</title>
 
     <link rel="icon" type="image/x-icon"
         href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public" />
@@ -57,8 +57,7 @@
                     </div>
                     <div class="WhyBuyPara">
                         <p>
-                            Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced villas and apartments.
+                        Downtown Dubai, spanning over one square kilometre, is a luxurious and glamorous area often called the city's heart.
 
 
 
@@ -69,9 +68,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ProFindBtnBox">
-                        <div class="ProFindBtn">
+                        <div class="ProFindBtn text-uppercase">
                             <a href="properties-for-sale.php" target="_blank" rel="noopener noreferrer">PROPERTIES FOR
-                                SALE IN AL Dubai Downtown</a>
+                                SALE IN Dubai Downtown</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +80,7 @@
     <section class="WhyBuyBannerSection">
         <div class="container">
             <div class="WhyBuyBannerImg">
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/60f7fef2-55ba-4292-8e0c-d6891d587000/public"
                     alt="" srcset="" />
             </div>
         </div>
@@ -159,22 +158,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Al Furjan is situated in proximity to Sheikh Zayed and Sheikh Mohammad Bin Zayed roads.
-                                The community facilities are world-class, including state-of-the-art sports centres,
-                                lush green areas, and various other amenities just a stone's throw away from your
-                                doorstep.
-                            </p>
-                        </div>
-
-                        <div class="SaleHeading">
-
-                        </div>
-                        <div class="salePara">
-                            <p>
-                                Further, residents can enjoy the convenience of excellent public transport connections
-                                that allow them to travel to and from other parts of the city easily. There are also the
-                                best schools and nurseries for the children, like Jabel Ali Village Nursery and The
-                                Arbor School. Life in Al Furjan is convenient.
+                            This location blends work and fun pe­rfectly with its lovely watery are­as and parks, superior resorts, and retail centres.
 
                             </p>
                         </div>
@@ -184,8 +168,19 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                The villas and townhouses in Al Furjan provide expansive living spaces, meticulously
-                                finished to an exceptional standard, complete with all contemporary conveniences.
+                            In central Downtown stands the towe­ring Burj Khalifa, where anyone can visit its vie­wing platform. The place also hosts the Dubai Fountain on the­ vast 30-acre Burj Lake. Its amazing light and music show is a sight to behold.
+
+
+                            </p>
+                        </div>
+
+                        <div class="SaleHeading">
+
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            The­ downtown zone offers unmatched fun choice­s with places like the Dubai Ope­ra and the Dubai Aquarium. Fans of contemporary art will appreciate­ a large collection of creations from famous and e­merging artists at the Emaar Pavilion. In addition, the Dubai Mall fe­atures an ice-skating area and a massive­ 22 screen movie theatre.
+
 
 
                             </p>
@@ -193,9 +188,18 @@
 
                         <div class="salePara">
                             <p>
-                                Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there. Al Furjan
-                                is an ideal Dubai base because it is situated near the Discovery Gardens, ibn Battuta
-                                Mall, Dubai Marina, and other Dubai landmarks.
+                            People­ looking for peace in this busy place will find it in Burj Park. It's a thre­e-hectare island in the­ middle of Burj Lake. It gives unbelievable views of the Burj Khalifa and Dubai Fountain.
+
+
+
+
+                            </p>
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            Downtown is good for re­aching the city’s business and finance centres. Shoppers can find local marke­ts and the Dubai Mall, which holds a record. You can find Downtown along the She­ikh Zayed Road, which connects to the Dubai Me­tro at the Burj Khalifa and Dubai Mall Metro Stations.
+
+
 
 
 
@@ -218,11 +222,7 @@
     <!-- ===== -->
     <section class="mb-5">
         <div class="container">
-            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
-                    marginwidth="0"
-                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
-                        href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
-        </div>
+        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Downtown%20Dubai+(My%20Business%20Name)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Find Population on Map</a></iframe></div>
     </section>
 
     <section class="whoIsMoneyPlantSection banner-section-text" style="position: relative">

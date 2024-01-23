@@ -57,8 +57,8 @@
                     </div>
                     <div class="WhyBuyPara">
                         <p>
-                            Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced villas and apartments.
+                        Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing a community feeling, safe living, and well-priced villas and apartments.
+
 
 
 
@@ -69,9 +69,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ProFindBtnBox">
-                        <div class="ProFindBtn">
+                        <div class="ProFindBtn text-uppercase">
                             <a href="properties-for-sale.php" target="_blank" rel="noopener noreferrer">PROPERTIES FOR
-                                SALE IN AL FURJAN</a>
+                                SALE IN Al FURJAN</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
     <section class="WhyBuyBannerSection">
         <div class="container">
             <div class="WhyBuyBannerImg">
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/3420c2a2-b73c-4e2a-47bc-557908412700/public"
                     alt="" srcset="" />
             </div>
         </div>

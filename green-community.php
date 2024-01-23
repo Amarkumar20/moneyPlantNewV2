@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>al-furjan-area-guide | Money-plant</title>
+    <title>green-community | Money-plant</title>
 
     <link rel="icon" type="image/x-icon"
         href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public" />
@@ -58,8 +58,8 @@
                     </div>
                     <div class="WhyBuyPara">
                         <p>
-                            Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced villas and apartments.
+                        Green Community, one of the most sought-after neighbourhoods in Dubai, is a gated, secure community located one hundred thirty-five kilometres from Abu Dhabi and effortlessly near Central Dubai.
+
 
 
 
@@ -70,9 +70,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ProFindBtnBox">
-                        <div class="ProFindBtn">
+                        <div class="ProFindBtn text-uppercase">
                             <a href="properties-for-sale.php" target="_blank" rel="noopener noreferrer">PROPERTIES FOR
-                                SALE IN AL Green Community 
+                                SALE IN Green Community 
 </a>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
     <section class="WhyBuyBannerSection">
         <div class="container">
             <div class="WhyBuyBannerImg">
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/db5b2bc9-39c9-4f97-87c3-652918466a00/public"
                     alt="" srcset="" />
             </div>
         </div>
@@ -161,22 +161,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Al Furjan is situated in proximity to Sheikh Zayed and Sheikh Mohammad Bin Zayed roads.
-                                The community facilities are world-class, including state-of-the-art sports centres,
-                                lush green areas, and various other amenities just a stone's throw away from your
-                                doorstep.
-                            </p>
-                        </div>
-
-                        <div class="SaleHeading">
-
-                        </div>
-                        <div class="salePara">
-                            <p>
-                                Further, residents can enjoy the convenience of excellent public transport connections
-                                that allow them to travel to and from other parts of the city easily. There are also the
-                                best schools and nurseries for the children, like Jabel Ali Village Nursery and The
-                                Arbor School. Life in Al Furjan is convenient.
+                            As its name implies, the Green Community provides hectares of properly manicured, mature gardens and parks.
 
                             </p>
                         </div>
@@ -186,8 +171,25 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                The villas and townhouses in Al Furjan provide expansive living spaces, meticulously
-                                finished to an exceptional standard, complete with all contemporary conveniences.
+                            The improvement consists of the brand new Green Community West and the authentic Green Community East, built in stages. High-pleasant villas and flats may be found in each sub-group; the East region has 310 townhouses, and the West zone has 299 bungalows.
+                            </p>
+                        </div>
+
+                        <div class="SaleHeading">
+
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            Green Community is especially well-preferred by households as it gives its residents a good selection of amenities and top-notch sports activity facilities.
+
+
+
+                            </p>
+                        </div>
+                        <div class="fs-4">
+                            <p>
+                            Green Community Amenities 
+
 
 
                             </p>
@@ -195,9 +197,24 @@
 
                         <div class="salePara">
                             <p>
-                                Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there. Al Furjan
-                                is an ideal Dubai base because it is situated near the Discovery Gardens, ibn Battuta
-                                Mall, Dubai Marina, and other Dubai landmarks.
+                            The Green Network has smooth access to a wide range of services. One of the most important supermarket chains in the Middle East, Choithram, is one of the shops, salons, and stores located in The Market, the shopping centre in The Green Community.
+
+
+
+                            </p>
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            Numerous other supermarkets are conveniently located, including Organic Foods.
+
+
+
+                            </p>
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            There are excellent recreational and dining options nearby the lake, including restaurants offering a range of cuisines from Arabic to French and Japanese.
+
 
 
 
@@ -220,10 +237,7 @@
     <!-- ===== -->
     <section class="mb-5">
         <div class="container">
-            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
-                    marginwidth="0"
-                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
-                        href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
+        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Green%20Community%20dubai%20+(My%20Business%20Name)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population Estimator map</a></iframe></div>
         </div>
     </section>
 

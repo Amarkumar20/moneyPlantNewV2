@@ -110,7 +110,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="al-furjan-area-guide.php">
                 <img
-                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/3420c2a2-b73c-4e2a-47bc-557908412700/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -129,7 +129,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="victory-heights-area-guide.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/ef6b663b-935d-4fb1-f391-3a1e921bfc00/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -148,7 +148,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="palm-jumeirah-area-guide.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/6d24ee0d-de41-4a92-d301-8f8c01bfe000/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -171,7 +171,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="dubai-downtown.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/60f7fef2-55ba-4292-8e0c-d6891d587000/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -190,7 +190,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="the-lake-area-guide.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/5fd53409-1afa-4d89-8145-e190f716ff00/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -209,7 +209,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="springs-area-guide.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/fc526cc6-5311-486b-8d87-a445c05ebb00/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -228,7 +228,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="meadows-area-guide.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/8a626f10-6241-4f14-80a9-0df6c7520200/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -247,7 +247,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="jumeirah-village-triangle.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/c2918882-4f1c-4a16-e82a-34119f5e5300/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -266,7 +266,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="jumeirah-village-circle.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/7fac2ee7-91ad-44e7-d150-381e2c2e0100/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -285,7 +285,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="juemirah-park.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/d9814365-c333-4267-80ef-a09e9568d400/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -304,7 +304,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="jumeirah-golf-estates.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/df9bb0f3-1288-4444-8f42-fd05b28f4700/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -323,7 +323,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="jumeirah-beach-residence.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/5c2c3738-c40e-4afa-39a2-8fc042a14000/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -342,7 +342,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="green-community.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/db5b2bc9-39c9-4f97-87c3-652918466a00/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -361,7 +361,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="emirates-hills.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/12b2ae19-5f1e-4a12-4ba9-5aa561106e00/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -381,7 +381,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="dubai-marina.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/f3286f8f-3a4d-46eb-e8da-292834f60500/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />
@@ -401,7 +401,7 @@
             <div class="card" style="width: 100%">
               <a class="card-text" href="arabian-ranches.php">
                 <img
-                  src="https://s3.me-central-1.amazonaws.com/espace.ae/inner_pages/Green%20Community%20Area%20Guide.webp"
+                  src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/39ac594e-e6f3-49f7-5f82-4f015c93c200/public"
                   class="card-img-top"
                   alt="Placeholder Image"
                 />

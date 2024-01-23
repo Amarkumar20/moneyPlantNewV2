@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>al-furjan-area-guide | Money-plant</title>
+    <title>meadows-area-guide | Money-plant</title>
 
     <link rel="icon" type="image/x-icon"
         href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public" />
@@ -39,6 +39,9 @@
             outline: 0;
             box-shadow: none;
         }
+        ul li {
+        list-style: circle !important;
+      }
     </style>
 </head>
 
@@ -57,8 +60,8 @@
                     </div>
                     <div class="WhyBuyPara">
                         <p>
-                            Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced villas and apartments.
+                        Meadows is a viable alternative in case you are looking to break out of town without absolutely leaving it behind. It’s part of the Emirates Living network.
+
 
 
 
@@ -69,9 +72,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ProFindBtnBox">
-                        <div class="ProFindBtn">
+                        <div class="ProFindBtn text-uppercase">
                             <a href="properties-for-sale.php" target="_blank" rel="noopener noreferrer">PROPERTIES FOR
-                                SALE IN AL Meadows</a>
+                                SALE IN Meadows</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +84,7 @@
     <section class="WhyBuyBannerSection">
         <div class="container">
             <div class="WhyBuyBannerImg">
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/8a626f10-6241-4f14-80a9-0df6c7520200/public"
                     alt="" srcset="" />
             </div>
         </div>
@@ -158,23 +161,7 @@
 
                         </div>
                         <div class="salePara">
-                            <p>
-                                Al Furjan is situated in proximity to Sheikh Zayed and Sheikh Mohammad Bin Zayed roads.
-                                The community facilities are world-class, including state-of-the-art sports centres,
-                                lush green areas, and various other amenities just a stone's throw away from your
-                                doorstep.
-                            </p>
-                        </div>
-
-                        <div class="SaleHeading">
-
-                        </div>
-                        <div class="salePara">
-                            <p>
-                                Further, residents can enjoy the convenience of excellent public transport connections
-                                that allow them to travel to and from other parts of the city easily. There are also the
-                                best schools and nurseries for the children, like Jabel Ali Village Nursery and The
-                                Arbor School. Life in Al Furjan is convenient.
+                            <p>Meadows is highly nicely-appreciated with the aid of young professionals and households because it is close to Dubai Marina, the city's enterprise centre, and Sheikh Zayed Road, the town's essential thoroughfare. It features an excellent entry into the city, a cute network experience, and roomy villas with three to six bedrooms.
 
                             </p>
                         </div>
@@ -184,8 +171,18 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                The villas and townhouses in Al Furjan provide expansive living spaces, meticulously
-                                finished to an exceptional standard, complete with all contemporary conveniences.
+                            Many villas have swimming pools, and most have full-size personal gardens.
+
+                            </p>
+                        </div>
+
+                        <div class="SaleHeading">
+
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            But what citizens experience most is the lack of excellent facilities and a laid-back lifestyle. Families arriving in Dubai find it a superb choice due to its tree-lined streets, lakes, green areas, sports centres, and entertainment services.
+
 
 
                             </p>
@@ -193,14 +190,33 @@
 
                         <div class="salePara">
                             <p>
-                                Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there. Al Furjan
-                                is an ideal Dubai base because it is situated near the Discovery Gardens, ibn Battuta
-                                Mall, Dubai Marina, and other Dubai landmarks.
+                            You can also find a network of swimming pools, tennis, basketball, and other sports clubs, supermarkets, coffee shops, boutiques, and retail stores at the Meadows Town Centre.
 
 
 
                             </p>
                         </div>
+                        <div class="salePara">
+                            <p>
+                            Bicyclists, power walkers, and joggers enjoy the trails and walkways in every Meadow location, and golfers can swing their clubs near home due to the proximity of the Emirates and Montgomerie Golf Clubs.
+
+
+                            </p>
+                        </div>
+                        <div class="fs-4">
+                            <p>
+                            Amenities In Meadows
+
+
+                            </p>
+                        </div>
+                        <ul class= "custom-list">
+                            <li>It is a tremendous location to stay with your family.</li>
+                            <li>All varieties of gaining knowledge of opportunities are to be had in the location.</li>
+                            <li>Fitness lovers can quickly end up going to the gym regularly.</li>
+                            <li>A great region to go to is the Meadows Town Centre. All the cafes and eating places are nearby and available inside the precise place.</li>
+                        </ul> 
+                        
 
                         <div class="">
 
@@ -218,10 +234,7 @@
     <!-- ===== -->
     <section class="mb-5">
         <div class="container">
-            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
-                    marginwidth="0"
-                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
-                        href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
+        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Meadows%202+(My%20Business%20Name)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
         </div>
     </section>
 

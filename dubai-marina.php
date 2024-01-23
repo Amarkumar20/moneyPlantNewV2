@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>al-furjan-area-guide | Money-plant</title>
+    <title>dubai-marina | Money-plant</title>
 
     <link rel="icon" type="image/x-icon"
         href="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/9ed34182-1ed4-4424-7038-a868931af500/public" />
@@ -57,8 +57,7 @@
                     </div>
                     <div class="WhyBuyPara">
                         <p>
-                            Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced villas and apartments.
+                        Dubai Marina, one of the world's most extensive and well-planned waterfront tendencies, presents the energy and pleasure of a fashionable urban lifestyle.
 
 
 
@@ -69,9 +68,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ProFindBtnBox">
-                        <div class="ProFindBtn">
+                        <div class="ProFindBtn text-uppercase">
                             <a href="properties-for-sale.php" target="_blank" rel="noopener noreferrer">PROPERTIES FOR
-                                SALE IN AL Dubai Marina</a>
+                                SALE IN Dubai Marina</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +80,7 @@
     <section class="WhyBuyBannerSection">
         <div class="container">
             <div class="WhyBuyBannerImg">
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/f3286f8f-3a4d-46eb-e8da-292834f60500/public"
                     alt="" srcset="" />
             </div>
         </div>
@@ -159,10 +158,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Al Furjan is situated in proximity to Sheikh Zayed and Sheikh Mohammad Bin Zayed roads.
-                                The community facilities are world-class, including state-of-the-art sports centres,
-                                lush green areas, and various other amenities just a stone's throw away from your
-                                doorstep.
+                            Dubai Marina, which spans more than 4.6 million square metres, is positioned inside the region's centre and has grown to be a pricey residential building. The development includes stores, eateries, recreational and sports facilities, and a wide range of entertainment options. Myriad entertainment options.
                             </p>
                         </div>
 
@@ -171,10 +167,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Further, residents can enjoy the convenience of excellent public transport connections
-                                that allow them to travel to and from other parts of the city easily. There are also the
-                                best schools and nurseries for the children, like Jabel Ali Village Nursery and The
-                                Arbor School. Life in Al Furjan is convenient.
+                            The marina, which is well-liked by singles and couples, offers high-rise apartment living for most price ranges, with studio, duplex and villa apartments available for up to four bedrooms. While some buildings overlook Sheikh Zayed Road or have views of the marina, many others have direct views of the sea.
 
                             </p>
                         </div>
@@ -184,8 +177,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                The villas and townhouses in Al Furjan provide expansive living spaces, meticulously
-                                finished to an exceptional standard, complete with all contemporary conveniences.
+                            Many local schools and nurseries are conveniently located near Dubai Marina. The Raffles International School is among the closest. Raffles' South Campus, which opened its doors in 2007, is a Cambridge Curriculum-permitted school.
 
 
                             </p>
@@ -193,9 +185,22 @@
 
                         <div class="salePara">
                             <p>
-                                Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there. Al Furjan
-                                is an ideal Dubai base because it is situated near the Discovery Gardens, ibn Battuta
-                                Mall, Dubai Marina, and other Dubai landmarks.
+                            Dubai Marina residents must be admitted to contemporary hospital treatment at Emirates Hospital Dubai. The health centre affords sufferers pinnacle-notch care by imparting a comprehensive range of widespread, emergency, and cosmetic services.
+
+
+                            </p>
+                        </div>
+                        <div class="fs-4">
+                            <p>
+                            Amenities at Dubai Marina
+
+
+                            </p>
+                        </div>
+                        <div class="salePara">
+                            <p>
+                            Numerous stores and eateries located in the mall are available at the artificial marina. All apartments have easy access to various stores, including restaurants, pharmacies, supermarkets, and banks, and a heavy concentration at the east end of the marina.
+                             Some excellent supermarkets can also be found in the area, such as Spinney's location on Marina Walk and a Carrefour in the Mall of the Emirates.
 
 
 
@@ -218,10 +223,7 @@
     <!-- ===== -->
     <section class="mb-5">
         <div class="container">
-            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
-                    marginwidth="0"
-                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
-                        href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
+        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Dubai%20Marina+(My%20Business%20Name)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
         </div>
     </section>
 

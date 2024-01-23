@@ -57,8 +57,7 @@
                     </div>
                     <div class="WhyBuyPara">
                         <p>
-                            Do you know about Al Furjan? It is one of the most fantastic Nakheel developments, providing
-                            a community feeling, safe living, and well-priced villas and apartments.
+                        Situated near Dubai Land on the Emirates Road, inside the non-violent wasteland, Arabian Ranches is one of the most well-known Emaar tendencies.
 
 
 
@@ -69,9 +68,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="ProFindBtnBox">
-                        <div class="ProFindBtn">
+                        <div class="ProFindBtn text-uppercase">
                             <a href="properties-for-sale.php" target="_blank" rel="noopener noreferrer">PROPERTIES FOR
-                                SALE IN AL Arabian Ranches</a>
+                                SALE IN Arabian Ranches</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +80,7 @@
     <section class="WhyBuyBannerSection">
         <div class="container">
             <div class="WhyBuyBannerImg">
-                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/90b41054-2321-49bd-8c0d-0df0b576f600/public"
+                <img src="https://imagedelivery.net/yg9mV_kJZn9RkpQKfOuKfA/39ac594e-e6f3-49f7-5f82-4f015c93c200/public"
                     alt="" srcset="" />
             </div>
         </div>
@@ -159,11 +158,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Al Furjan is situated in proximity to Sheikh Zayed and Sheikh Mohammad Bin Zayed roads.
-                                The community facilities are world-class, including state-of-the-art sports centres,
-                                lush green areas, and various other amenities just a stone's throw away from your
-                                doorstep.
-                            </p>
+                            The community provides a secure and gated environment away from the hustle and bustle of Dubai city life, making it popular with many expat households with small kids.
                         </div>
 
                         <div class="SaleHeading">
@@ -171,10 +166,7 @@
                         </div>
                         <div class="salePara">
                             <p>
-                                Further, residents can enjoy the convenience of excellent public transport connections
-                                that allow them to travel to and from other parts of the city easily. There are also the
-                                best schools and nurseries for the children, like Jabel Ali Village Nursery and The
-                                Arbor School. Life in Al Furjan is convenient.
+                            The development spans 1,650 acres and is known for its breathtaking desolate tract scenery, is broken up into 12 smaller communities. Each offers a one-of-a-kind form of villa, from the more roomy, unbiased villas in Terranova and Hattan to the two-bedroom townhouses in Al Reem, to mention some.
 
                             </p>
                         </div>
@@ -183,9 +175,7 @@
 
                         </div>
                         <div class="salePara">
-                            <p>
-                                The villas and townhouses in Al Furjan provide expansive living spaces, meticulously
-                                finished to an exceptional standard, complete with all contemporary conveniences.
+                            <p>Arabian Ranches is a calm neighbourhood presenting motorbike routes, walkways, and open spaces. The Arabian Ranches Golf Course and the Dubai Polo and Equestrian Club are each without problems equipped with incredible wearing facilities.
 
 
                             </p>
@@ -193,9 +183,17 @@
 
                         <div class="salePara">
                             <p>
-                                Discovery Gardens or the Jebel Ali roundabout are the two ways to reach there. Al Furjan
-                                is an ideal Dubai base because it is situated near the Discovery Gardens, ibn Battuta
-                                Mall, Dubai Marina, and other Dubai landmarks.
+                            There are plenty of nearby services available within the Arabian Ranches community. The adjoining Dubai Land's purchasing, enjoyment, and cultural sights additionally gain locals.
+
+
+
+                            </p>
+                        </div>
+                        <div class="salePara">
+                            <p>
+                           
+                            Arabian Ranches Golf Club, the well-known Jess School, and a Village Community Centre with a pharmacy, grocery store, dry cleaners, eateries, and other retail institutions are all located in the Ranches.
+
 
 
 
@@ -218,10 +216,7 @@
     <!-- ===== -->
     <section class="mb-5">
         <div class="container">
-            <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
-                    marginwidth="0"
-                    src="https://maps.google.com/maps?width=100%25&amp;height=300&amp;hl=en&amp;q=Al%20Furjan%20Dubai+(Al%20Furjan%20Dubai)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
-                        href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
+        <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Arabian%20Ranches+(My%20Business%20Name)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population calculator map</a></iframe></div>
         </div>
     </section>
 
